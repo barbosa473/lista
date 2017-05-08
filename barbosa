@@ -19,11 +19,11 @@ http://85.7.107.8:8012/play/a00f
 http://85.7.107.8:8011/play/a02s
 #EXTINF:0,SIC Noticias
 http://85.7.107.8:8011/play/a022
-#EXTINF:0,SIC NotTcias
+#EXTINF:0,SIC Noticias
 http://85.7.107.8:8012/play/a00k
 #EXTINF:0,RTP 3
 http://85.7.107.8:8011/play/a01u
-#EXTINF:0,RTP Acores
+#EXTINF:0,RTP Açores
 http://85.7.107.8:8011/play/a01r
 #EXTINF:0,RTP Madeira
 http://85.7.107.8:8011/play/a01q
@@ -63,26 +63,26 @@ http://85.7.107.8:8010/play/a047
 http://85.7.107.8:8010/play/a04n
 #EXTINF:0,Sport TV 1
 http://85.7.107.8:8011/play/a016
-#EXTINF:0,Sport TV 1 HD
-http://85.7.107.8:8011/play/a00b
 #EXTINF:0,Sport TV 2
 http://85.7.107.8:8011/play/a00z
-#EXTINF:0,SPORT TV 2 HD
-http://178.193.237.115:9000/play/a08o
-#EXTINF:0,Sport TV 2 HD
-http://85.7.107.8:8011/play/a00c
 #EXTINF:0,Sport TV 3
 http://85.7.107.8:8011/play/a010
 #EXTINF:0,SPORT TV 3
 http://178.193.237.115:9000/play/a08b
-#EXTINF:0,Sport TV 3 HD
-http://85.7.107.8:8011/play/a00d
 #EXTINF:0,Sport TV 4
 http://85.7.107.8:8011/play/a011
 #EXTINF:0,SPORT TV 5
 http://178.193.237.115:9000/play/a082
 #EXTINF:0,Sport TV 5
 http://85.7.107.8:8010/play/a04i
+#EXTINF:0,Sport TV 1 HD
+http://85.7.107.8:8011/play/a00b
+#EXTINF:0,SPORT TV 2 HD
+http://178.193.237.115:9000/play/a08o
+#EXTINF:0,Sport TV 2 HD
+http://85.7.107.8:8011/play/a00c
+#EXTINF:0,Sport TV 3 HD
+http://85.7.107.8:8011/play/a00d
 #EXTINF:0,Benfica TV
 http://85.7.107.8:8011/play/a01y
 #EXTINF:0,Eurosport
@@ -101,7 +101,7 @@ http://85.7.107.8:8010/play/a03a
 http://85.7.107.8:8010/play/a03q
 #EXTINF:0,Kombat Sport
 http://85.7.107.8:8011/play/a02o
-#EXTINF:0,KOMBAT SPORT
+#EXTINF:0,Kombat Sport
 http://178.193.237.115:9000/play/a089
 #EXTINF:0,motorsport.tv
 http://85.7.107.8:8012/play/a00n
@@ -109,35 +109,35 @@ http://85.7.107.8:8012/play/a00n
 http://85.7.107.8:8010/play/a03r
 #EXTINF:0,NBA TV
 http://85.7.107.8:8011/play/a02t
-#EXTINF:0,TVCine 1
+#EXTINF:0,TVC 1
 http://85.7.107.8:8012/play/a00s
-#EXTINF:0,TVCine 1 HD
-http://85.7.107.8:8010/play/a03u
-#EXTINF:0,TVCine 2
+#EXTINF:0,TVC 2
 http://85.7.107.8:8012/play/a009
-#EXTINF:0,TVCine 2 HD
-http://85.7.107.8:8012/play/a01c
-#EXTINF:0,TVCine 2 HD
-http://85.7.107.8:8010/play/a03c
 #EXTINF:0,TVC 2
 http://178.193.237.115:9000/play/a00t
-#EXTINF:0,TVCine 3 HD
-http://85.7.107.8:8012/play/a01d
-#EXTINF:0,TVCine 3 HD
-http://85.7.107.8:8010/play/a035
-#EXTINF:0,TVCine 3
+#EXTINF:0,TVC 3
 http://85.7.107.8:8012/play/a00t
 #EXTINF:0,TVC 3
 http://178.193.237.115:9000/play/a00r
-#EXTINF:0,TVCine 4
+#EXTINF:0,TVC 4
 http://85.7.107.8:8012/play/a00e
-#EXTINF:0,TVCine 4 HD
+#EXTINF:0,TVC 1 HD
+http://85.7.107.8:8010/play/a03u
+#EXTINF:0,TVC 2 HD
+http://85.7.107.8:8012/play/a01c
+#EXTINF:0,TVC 2 HD
+http://85.7.107.8:8010/play/a03c
+#EXTINF:0,TVC 3 HD
+http://85.7.107.8:8012/play/a01d
+#EXTINF:0,TVC 3 HD
+http://85.7.107.8:8010/play/a035
+#EXTINF:0,TVC 4 HD
 http://85.7.107.8:8010/play/a04r
 #EXTINF:0,TV Séries
 http://85.7.107.8:8010/play/a034
 #EXTINF:0,TV Séries
 http://85.7.107.8:8012/play/a00u
-#EXTINF:0,TV SERIES
+#EXTINF:0,TV Séries
 http://178.193.237.115:9000/play/a00s
 #EXTINF:0,AMC
 http://178.193.237.115:9000/play/a08g
@@ -167,7 +167,7 @@ http://85.7.107.8:8011/play/a00g
 http://85.7.107.8:8010/play/a036
 #EXTINF:0,FOX Movies
 http://85.7.107.8:8010/play/a04o
-#EXTINF:0,HOLLYWOOD
+#EXTINF:0,Hollywood
 http://178.193.237.115:9000/play/a088
 #EXTINF:0,Hollywood
 http://85.7.107.8:8012/play/a008
@@ -177,8 +177,10 @@ http://85.7.107.8:8011/play/a019
 http://85.7.107.8:8010/play/a03s
 #EXTINF:0,Syfy
 http://85.7.107.8:8012/play/a00l
-#EXTINF:0,CMUSIC
+#EXTINF:0,C-Music
 http://178.193.237.115:9000/play/a08k
+#EXTINF:0,C-Music
+http://85.7.107.8:8012/play/a00h
 #EXTINF:0,Afro Music
 http://85.7.107.8:8012/play/a00v
 #EXTINF:0,MTV Portugal
@@ -275,8 +277,6 @@ http://85.7.107.8:8010/play/a03n
 http://85.7.107.8:8010/play/a04f
 #EXTINF:0,BIGGS
 http://178.193.237.115:9000/play/a01d
-#EXTINF:0,C-Music
-http://85.7.107.8:8012/play/a00h
 #EXTINF:0,CNN
 http://85.7.107.8:8010/play/a049
 #EXTINF:0,CNN
