@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:0,AMALIA 
+http://stream.radio.com.pt:9496/stream
+#EXTINF:0,Antena 1 
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:0,Antena 2 
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:0,CIDADE FM
+http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8
+#EXTINF:0,DIANA FM EVORA
+http://centova.radio.com.pt:9460/stream
+#EXTINF:0,HIPER FM
+http://195.23.85.126:9500/stream/1/
+#EXTINF:0,MEGA HITS
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:0,NOVA ERA 
+http://centova.radios.pt:9478/stream/1/
+#EXTINF:0,POPULAR FM
+https://cdn.webrad.io/images/logos/radioonline-com-pt/popular-fm-90-9.png
+#EXTINF:0,Power Hits
+http://stm18.painel.foxsolucoes.net:18642/stream
+#EXTINF:0,Radar
+http://centova.radios.pt:8497/stream/1/
+#EXTINF:0,RADIO 94 FM
+http://195.8.58.150:35022/stream/1/
+#EXTINF:0,Radio Comercial
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:0,RADIO ELVAS
+http://centova.radios.pt:9494/stream
+#EXTINF:0,RADIO ESTREMOZ
+http://stream.vgsoftware.com.pt:8000/radiodespertar
+#EXTINF:0,Radio Marginal
+http://centova.radios.pt:8499/stream/1/
+#EXTINF:0,Radio Nova
+http://centova.radios.pt:9528/stream/1/
+#EXTINF:0,Radio Onda Viva
+http://centova.radios.pt:9524/stream
+#EXTINF:0,Radio Orbital
+http://195.23.85.126:8401/stream/1/
+#EXTINF:0,Radio Oxigenio
+http://centova.radios.pt:9498
+#EXTINF:0,RADIO PLACARD - RADIO PLACARD - SUCESSO EM 1o.LUGAR
+http://213.239.218.99:7098/;?1475760096281.aac
+#EXTINF:0,Radio Portalegre
+http://centova.radios.pt:9492/stream
+#EXTINF:0,RADIO RENASCENCA
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+#EXTINF:0,Radio SBSR
+http://centova.radios.pt:8435
+#EXTINF:0,RFM
+http://19553.live.streamtheworld.com/RFM_SC
+#EXTINF:0,RFM 80S 
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+#EXTINF:0,RFM CLUBBING
+http://19553.live.streamtheworld.com/RFMCLUBBINGAAC_SC?TGT=TuneIn&DIST=TuneIn
+#EXTINF:0,SUPER FM - SUPER FM - 104.8 FM
+http://94.23.76.235:9956/;
+#EXTINF:0,TSF Online
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
