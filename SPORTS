@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:0,Arena Sport 1
+http://185.53.163.85:8888/play/a02l
+#EXTINF:0,Arena Sport 2
+http://185.53.163.85:8888/play/a02m
+#EXTINF:0,Arena Sport 3
+http://185.53.163.85:8888/play/a02n
+#EXTINF:0,Arena Sport 4
+http://185.53.163.85:8888/play/a02o
+#EXTINF:0,Arena Sport 5
+http://185.53.163.85:8888/play/a034
+#EXTINF:0,BOX|UFC (ru)
+http://content.asplaylist.net/em41TnpGY29KRUtoTTN3T2huTEV1eUJKTTFWTXRJb0F6b2x5MS9zSUZtMHhFenB0Kyt0VnliMm5hUWlSdzVCNGVYQ1JRamplMmxMT29NQjE4WHV2M0E9PQ/cdn/1155_reg.acelive
+#EXTINF:0,BOX|UFC 2 (ru)
+http://content.asplaylist.net/WkswN0FzUkx6djNubTVRNy9nSFM2SVl6M1NRRWQxeE5GQjlRbDFWZEpGQnFGS3BlbTI1eFI0Sk5IS3BobWQ4bW11QjBBN1ZJQjV0NkZMR2VUWGZzSlE9PQ/cdn/63_reg.acelive
+#EXTINF:0,BOX|UFC 3 (ru)
+http://msk4.peers.tv/streaming/boks_tv/16/tvrecw/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0,BOX|UFC 4 (ru)
+http://msk4.peers.tv/streaming/boets/16/tvrecw/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0,BT Mosaic
+http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
+#EXTINF:0,BT SPORT 1
+#EXTVLCOPT:aspect-ratio=16:9
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=blend
+http://content.asplaylist.net/czA5MW5TSWFmcXA1S0tHUTdacEJ1azArQ05wdkNmSmpaSjlGYm52d1loZWluc0VrVTVIbFJubXprYi9VcDlZdUs2N2tJVGF4S2xmZ1d3V0hIM0xOMHc9PQ/10634.acelive
+#EXTINF:0,BT SPORT 2
+http://content.asplaylist.net/WUVjS0NnajBTMXUzVHhCMnpjWVJwSldpVENVbVFvL2xNaURkaG01ZUlDZEdrUFpTU3ZBRkZqNXFXS1YvS2NyZm1PMjVlRUs3QnMyQnd0MExJZVZ6WEE9PQ/9220.acelive
+#EXTINF:0,BT Sports Extra 1
+http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
+#EXTINF:0,BT Sports Extra 2
+http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
+#EXTINF:0,BT Sports Extra 3
+http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
+#EXTINF:0,BT Sports Extra 4
+http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
+#EXTINF:0,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:0,Diema Sport 1
+http://185.53.163.85:8888/play/a01n
+#EXTINF:0,Diema Sport 2
+http://185.53.163.85:8888/play/a01j
+#EXTINF:0,EUROSPORT 1 (RU)
+http://msk4.peers.tv/streaming/eurosport/16/tvrecw/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0,EUROSPORT 2 (Mudar audio P/UK)
+http://content.asplaylist.net/T082aWNXVEQ4Z3F4ZUIrSlZ1Q2FWcTRyUkQ2dmdtWjdZZUZqUUJWYTdWK0NvaXpIYk5QRWgwRWo3SVNHUEhULzBxSTcyNlowL3lGTE1kMS94YWs2Ync9PQ/cdn/6_reg.acelive
+#EXTINF:0,EUROSPORT 2 (RU)
+http://msk4.peers.tv/streaming/eurosport2/16/tvrecw/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0,EXTREME SPORTS (RU)
+http://msk4.peers.tv/streaming/extreme_sports/16/tvrecw/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0,EXTREME SPORTS (RU)
+http://content.asplaylist.net/SDgyL2lhRER2WHhlVE10NnowdERIRXZIc1E5eWErMEJPVkpOZXk0QTM3QlZ4TXpTTElRSmpIeG9oWUxmRmY0RlhFeUpZRVBWZ2NqRUgzUHdBYW9zU1E9PQ/cdn/8_all.acelive
+#EXTINF:0,HAWK SPORTS (RU)
+http://msk4.peers.tv/streaming/nash_futbol/16/tvrec/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0,Idman Sport
+http://content.asplaylist.net/Qk1kTFVFbzBNKytmVTl2NVUwc0JLNCtFY1MvMWU0Tk9rbmY4cmVQNEw4VjUveTByeUlYMlpEbjVlOUFHbHhoSE1WaTBzNnQrWVZyaHlhSEl1RzVYZGc9PQ/cdn/1092_all.acelive
+#EXTINF:0,REAL MADRID TV
+http://content.asplaylist.net/b3pnSWVQTDZFRk5WTTVydVZVcHdta2dqU05yallaMDExbDBQZDd2MFJOb0RnSktmQXZla1hZTVliaVN4bDNiQXRtZ2tHVjdINFoxalFxZkZpdmREV0E9PQ/14131.acelive
+#EXTINF:0,SKY FORMULA1 (UK)
+#EXTVLCOPT:aspect-ratio=16:9
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=blend
+http://content.asplaylist.net/WGg0aGZFQUtmOXoxUlJwMExyWmFjcEVvUExCME01TVdTbExEN3VRYXRtQmJvdnQvVTdmL1k0Z3RnMWFGdk1ISk5vU3B2eGNoajV1Z1BjdHZRQWJtSEE9PQ/9299.acelive
+#EXTINF:0,SKY SPORT (GER)
+http://149.11.73.5:8000/play/a002
+#EXTINF:0,SKY SPORT 1 (GER)
+http://178.196.220.26:9981/play/a01r
+#EXTINF:0,SKY SPORT 1 (UK)
+#EXTVLCOPT:aspect-ratio=16:9
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+http://content.asplaylist.net/Vk1LSk9MNG16MDBjWHVrNW1EK3ZncnJGZXNTS1VpTkcvanF1dVp4L0VXaHhoekx6MzRuRTJpTnpSR1FHZGlJU1V0MEpXU2JWNXc4TUNYTURFNi84NUE9PQ/10351.acelive
+#EXTINF:0,SKY SPORT 2 (GER)
+http://178.196.220.26:9981/play/a00z
+#EXTINF:0,SKY SPORT 3 (UK)
+http://content.asplaylist.net/c1Fhd2RxdFNtaVFlRlljUWYxZGZOcEFyQUhxd0QrcHgzVTBTUjNtSFo4Q1pQbHhRdncyY1A4WEFuU1ZZNjFpYUd5eTNuUW5rRFpPOHlROS9XRTVMaXc9PQ/6909.acelive
+#EXTINF:0,SKY SPORT 4 (UK)
+http://content.asplaylist.net/c29adGNwRDZ1WkFWV1RQN0JaUEU2bGZnQklBWDlKVXgzOWVvVEozaGRNQmxoN3BMamJXL3pseVZjT21JQ3FkNmhmeDVXdnBTZUNJejQ4YVQrRy9rTnc9PQ/12739.acelive
+#EXTINF:0,SPORT 1 (RUSSO)
+http://87.76.100.12:88/play/a82/index.m3u8
+#EXTINF:0,SPORT 1 (RUSSO)
+#EXTVLCOPT:aspect-ratio=16:9
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=blend
+http://content.asplaylist.net/TVZmTDFYU3VGQnM1SmJBNGNveUo2bzFERTh1YTEyTUtrWk0zL3VHc1VXU2p4RnNvWGlMUVFENW9yNExqTVJ0L3IyOEVxUTEvSlZCK0V3STJaaUEzR1E9PQ/1380.acelive
+#EXTINF:0,SPORT 2 (RUSSO)
+http://content.asplaylist.net/d1d6QkIxVWdpOGozQm5tVGV5YnRpRUNQZVRUVW1zNU4rQVcvU3F6bkxPckFRQkJ4aWNmbkZERFFRbGE4N2FNNzZyUUMzUGFCbTd4T3M2RndVd3gzekE9PQ/1381.acelive
+#EXTINF:0,TELEKANAL FUTBOL (LIGA NOS)
+http://msk4.peers.tv/streaming/futbol/126/tvrec/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0,TSN1
+http://content.asplaylist.net/YU9MMVhVQWxBUWhiNlJOOTkyRitNb0ZhUStSQllyRVY4dDRVd1FHelMvWGhZV1JRd1dtYUswNXRTcFRoRHBOSUFCZmtNMCtORUtCNkN3UThKSjZEemc9PQ/13091.acelive
+#EXTINF:0,TV3 CATALUNHA
+http://content.asplaylist.net/OFNSN29tTW02ZEVtZkNQdXBIaHZnWDBRWTZ5NGFMYWZReUVJOU4zNXZwOHA1L3ZiNXZla3JSRWIvbzNFTkp4cFdRMXZpNnAyRlRyYUhCa0w1RTF0SFE9PQ/15868.acelive
+#EXTINF:0,WWE
+http://212.48.90.121:8000/play/a0vu
