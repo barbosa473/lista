@@ -1,601 +1,4 @@
 #EXTM3U
-#EXTINF:0,RTP 1
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/1.ts
-#EXTINF:0,RTP 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/333.ts
-#EXTINF:0,RTP 2
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/2.ts
-#EXTINF:0,RTP 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/332.ts
-#EXTINF:0,SIC
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/3.ts
-#EXTINF:0,SIC HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/331.ts
-#EXTINF:0,TVI
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/4.ts
-#EXTINF:0,TVI HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/330.ts
-#EXTINF:0,SIC NOTICIAS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/10.ts
-#EXTINF:0,SIC MULHER
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/20.ts
-#EXTINF:0,TVI 24
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/11.ts
-#EXTINF:0,RTP 3
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/5.ts
-#EXTINF:0,SIC RADICAL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/19.ts
-#EXTINF:0,SIC RADICAL HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/696.ts
-#EXTINF:0,GLOBO PREMIUM
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/50.ts
-#EXTINF:0,GLOBO PT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/48.ts
-#EXTINF:0,TVI REALITY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/13.ts
-#EXTINF:0,PORTO CANAL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/71.ts
-#EXTINF:0,SIC CARAS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/18.ts
-#EXTINF:0,CANAL Q
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/30.ts
-#EXTINF:0,RTP MADEIRA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/7.ts
-#EXTINF:0,RTP ACORES
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/9.ts
-#EXTINF:0,RTP MEMORIA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/6.ts
-#EXTINF:0,RTP AFRICA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/8.ts
-#EXTINF:0,SANTUÁRIO DE FÁTIMA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/613.ts
-#EXTINF:0,[_Desporto Nacional_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/451.ts
-#EXTINF:0,SPORT TV 1 SD [_EXTRA_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/725.ts
-#EXTINF:0,SPORT TV 1 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/216.ts
-#EXTINF:0,SPORT TV 2 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/217.ts
-#EXTINF:0,SPORT TV 3 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/218.ts
-#EXTINF:0,SPORT TV 4 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/219.ts
-#EXTINF:0,SPORT TV 5 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/220.ts
-#EXTINF:0,SPORT TV 1 HD [_EXTRA_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/542.ts
-#EXTINF:0,SPORT TV 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/60.ts
-#EXTINF:0,SPORT TV 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/61.ts
-#EXTINF:0,SPORT TV 3 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/62.ts
-#EXTINF:0,SPORT TV 4 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/63.ts
-#EXTINF:0,SPORT TV 5 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/64.ts
-#EXTINF:0,BENFICA TV 1 SD [_EXTRA_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/726.ts
-#EXTINF:0,BENFICA TV 1 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/221.ts
-#EXTINF:0,BENFICA TV 1 HD [_EXTRA_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/543.ts
-#EXTINF:0,BENFICA TV 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/65.ts
-#EXTINF:0,SPORTING TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/70.ts
-#EXTINF:0,SPORTING TV HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/697.ts
-#EXTINF:0,[_Infantil_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/452.ts
-#EXTINF:0,100):origin()/pre06/17a7/th/pre/f/2011/239/2/0/disney_channel_logo_png_by_tutorialestppr-d47zjhc.png" group-title="PT" - DISNEY CHANNEL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/23.ts
-#EXTINF:0,NICKELODEON
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/27.ts
-#EXTINF:0,CANAL PANDA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/26.ts
-#EXTINF:0,DISNEY JR
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/24.ts
-#EXTINF:0,CARTOON NETWORK
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/25.ts
-#EXTINF:0,BABY TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/29.ts
-#EXTINF:0,PANDA BIGGS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/22.ts
-#EXTINF:0,JIM JAM
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/28.ts
-#EXTINF:0,SIC KIDS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/21.ts
-#EXTINF:0,[_Entretenimento_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/453.ts
-#EXTINF:0,TVCINE 1 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/570.ts
-#EXTINF:0,TVCINE 2 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/571.ts
-#EXTINF:0,TVCINE 3 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/572.ts
-#EXTINF:0,TVCINE 4 SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/573.ts
-#EXTINF:0,TVCINE 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/85.ts
-#EXTINF:0,TVCINE 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/86.ts
-#EXTINF:0,TVCINE 3 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/87.ts
-#EXTINF:0,TVCINE 4 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/88.ts
-#EXTINF:0,HOLLYWOOD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/92.ts
-#EXTINF:0,HOLLYWOOD HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/428.ts
-#EXTINF:0,E! ENTERTAINMENT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/442.ts
-#EXTINF:0,AXN BLACK HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/80.ts
-#EXTINF:0,AXN HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/78.ts
-#EXTINF:0,AXN WHITE HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/79.ts
-#EXTINF:0,FOX COMEDY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/35.ts
-#EXTINF:0,FOX HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/81.ts
-#EXTINF:0,FOX LIFE HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/82.ts
-#EXTINF:0,FOX CRIME HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/83.ts
-#EXTINF:0,FOX MOVIES
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/84.ts
-#EXTINF:0,TVSERIES SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/574.ts
-#EXTINF:0,TVSERIES HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/89.ts
-#EXTINF:0,[_Documentários_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/454.ts
-#EXTINF:0,24H KITCHEN HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/41.ts
-#EXTINF:0,FOOD NETWORK
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/223.ts
-#EXTINF:0,A BOLA TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/57.ts
-#EXTINF:0,AMC
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/93.ts
-#EXTINF:0,CBS REALITY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/34.ts
-#EXTINF:0,CINEMUNDO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/91.ts
-#EXTINF:0,CMTV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/350.ts
-#EXTINF:0,CMTV HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/701.ts
-#EXTINF:0,SUNDANCE HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/700.ts
-#EXTINF:0,DISCOVERY CHANNEL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/44.ts
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/42.ts
-#EXTINF:0,DISCOVERY SHOWCASE HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/43.ts
-#EXTINF:0,NATIONAL GEO WILD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/45.ts
-#EXTINF:0,NAT GEO WILD HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/699.ts
-#EXTINF:0,ODISSEIA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/38.ts
-#EXTINF:0,TRAVEL CHANNEL HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/288.ts
-#EXTINF:0,HISTORIA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/46.ts
-#EXTINF:0,A&E
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/33.ts
-#EXTINF:0,[_Outros_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/455.ts
-#EXTINF:0,EURONEWS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/16.ts
-#EXTINF:0,EUROSPORT NEWS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/579.ts
-#EXTINF:0,EUROSPORT 1 BRITISH
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/537.ts
-#EXTINF:0,EUROSPORT 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/58.ts
-#EXTINF:0,EUROSPORT 2
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/59.ts
-#EXTINF:0,SPORT TV +
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/367.ts
-#EXTINF:0,SPORT TV + HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/629.ts
-#EXTINF:0,FUEL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/349.ts
-#EXTINF:0,TOROS TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/77.ts
-#EXTINF:0,CACA & PESCA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/76.ts
-#EXTINF:0,CAÇAVISION
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/247.ts
-#EXTINF:0,MOTORVISION
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/75.ts
-#EXTINF:0,KOMBAT SPORT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/348.ts
-#EXTINF:0,NBA TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/577.ts
-#EXTINF:0,MOTORS TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/74.ts
-#EXTINF:0,PFC
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/72.ts
-#EXTINF:0,MTV PT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/117.ts
-#EXTINF:0,MEZZO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/580.ts
-#EXTINF:0,AFRO MUSIC
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/249.ts
-#EXTINF:0,MCM POP
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/108.ts
-#EXTINF:0,TRACE
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/118.ts
-#EXTINF:0,AKA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/693.ts
-#EXTINF:0,CAPITAL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/694.ts
-#EXTINF:0,HEART
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/695.ts
-#EXTINF:0,VH1
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/704.ts
-#EXTINF:0,ONE 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/665.ts
-#EXTINF:0,ONE 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/666.ts
-#EXTINF:0,ONE 3 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/667.ts
-#EXTINF:0,MCS LIFESTYLE
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/440.ts
-#EXTINF:0,TVI FICCAO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/12.ts
-#EXTINF:0,SYFY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/39.ts
-#EXTINF:0,TLC
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/36.ts
-#EXTINF:0,FASHION TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/703.ts
-#EXTINF:0,TV RECORD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/47.ts
-#EXTINF:0,TPA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/581.ts
-#EXTINF:0,BLOOMBERG
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/494.ts
-#EXTINF:0,CANÇÃO NOVA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/612.ts
-#EXTINF:0,LIVE ESPAÇO STREAM
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/615.ts
-#EXTINF:0,ANN7 SOUTH AFRICA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/619.ts
-#EXTINF:0,MUTV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/702.ts
-#EXTINF:0,REAL MADRID TV HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/617.ts
-#EXTINF:0,RUSSIA TODAY HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/495.ts
-#EXTINF:0,FOX MOTOR SPORT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/541.ts
-#EXTINF:0,FRANCE 24
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/496.ts
-#EXTINF:0,BBC WORLD NEWS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/669.ts
-#EXTINF:0,CBS NEWS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/664.ts
-#EXTINF:0,DW
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/618.ts
-#EXTINF:0,[_Brasil_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/458.ts
-#EXTINF:0,BR: GLOBO SP SD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/51.ts
-#EXTINF:0,BR: GLOBO SP HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/749.ts
-#EXTINF:0,BR: GLOBO BRASIL HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/427.ts
-#EXTINF:0,BR: RECORD SP
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/653.ts
-#EXTINF:0,BR: RECORD BRASIL HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/53.ts
-#EXTINF:0,BR: SBT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/383.ts
-#EXTINF:0,BR: SBT HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/466.ts
-#EXTINF:0,BR: BAND
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/624.ts
-#EXTINF:0,BR: GNT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/658.ts
-#EXTINF:0,BR: REDE TV
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/309.ts
-#EXTINF:0,BR: CARTOON NETWORK
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/377.ts
-#EXTINF:0,BR: DISNEY JR
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/378.ts
-#EXTINF:0,BR: NICKELODEON
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/426.ts
-#EXTINF:0,BR: DISNEY XD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/566.ts
-#EXTINF:0,BR: TOONCAST
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/567.ts
-#EXTINF:0,BR: RECORD NEWS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/49.ts
-#EXTINF:0,BR: BAND NEWS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/622.ts
-#EXTINF:0,BR: DISCOVERY CHANNEL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/621.ts
-#EXTINF:0,BR: DISCOVERY H&H
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/620.ts
-#EXTINF:0,BR: DISCOVERY TURBO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/534.ts
-#EXTINF:0,BR: COMBATE
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/533.ts
-#EXTINF:0,BR: SPORT TV 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/414.ts
-#EXTINF:0,BR: SPORT TV 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/415.ts
-#EXTINF:0,BR: SPORT TV 3 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/625.ts
-#EXTINF:0,BR: FOX LIFE HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/752.ts
-#EXTINF:0,BR: PREMIERE CLUBS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/547.ts
-#EXTINF:0,BR: PREMIERE 2
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/544.ts
-#EXTINF:0,BR: PREMIERE 5
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/545.ts
-#EXTINF:0,BR: PREMIERE 9
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/546.ts
-#EXTINF:0,BR: ESPN BRASIL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/536.ts
-#EXTINF:0,BR: ESP. INTERATIVO EI-MAXX
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/289.ts
-#EXTINF:0,BR: Band Sports
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/431.ts
-#EXTINF:0,BR: TELECINE ACTION HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/424.ts
-#EXTINF:0,BR: TELECINE FUN HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/384.ts
-#EXTINF:0,BR: TELECINE PIPOCA HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/387.ts
-#EXTINF:0,BR: TELECINE PREMIUM HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/423.ts
-#EXTINF:0,BR: TELECINE TOUCH HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/425.ts
-#EXTINF:0,BR: FOX HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/750.ts
-#EXTINF:0,BR: AXN
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/628.ts
-#EXTINF:0,BR: Discovery Channel HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/753.ts
-#EXTINF:0,BR: Discovery Civilization
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/754.ts
-#EXTINF:0,BR: Discovery Kids
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/755.ts
-#EXTINF:0,BR: HBO Family HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/756.ts
-#EXTINF:0,BR: TV APARECIDA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/52.ts
-#EXTINF:0,BR: TV ESCOLA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/305.ts
-#EXTINF:0,BR: CANAL RURAL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/660.ts
-#EXTINF:0,BR: TV CULTURA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/662.ts
-#EXTINF:0,[_Internacionais_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/457.ts
-#EXTINF:0,UK: iTV 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/429.ts
-#EXTINF:0,UK: iTV 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/430.ts
-#EXTINF:0,UK: ONE 1 MUSIC HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/114.ts
-#EXTINF:0,UK:AMC
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/202.ts
-#EXTINF:0,UK:ANIMAL PLANET
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/199.ts
-#EXTINF:0,UK:BBC 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/171.ts
-#EXTINF:0,UK:BBC 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/172.ts
-#EXTINF:0,UK:BOX NATION HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/206.ts
-#EXTINF:0,UK:BT SPORT 1
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/127.ts
-#EXTINF:0,UK:BT SPORT 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/209.ts
-#EXTINF:0,UK:BT SPORTS 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/198.ts
-#EXTINF:0,UK:BT SPORTS EUROPE
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/205.ts
-#EXTINF:0,UK:CARTOON NETWORK
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/197.ts
-#EXTINF:0,UK:DISCOVERY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/196.ts
-#EXTINF:0,UK:DISCOVERY TURBO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/208.ts
-#EXTINF:0,UK:DISNEY CHANNEL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/195.ts
-#EXTINF:0,UK:DISNEY JUNIOR
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/194.ts
-#EXTINF:0,UK:ESPN HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/193.ts
-#EXTINF:0,UK:HISTORY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/192.ts
-#EXTINF:0,UK:NATIONAL GEO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/191.ts
-#EXTINF:0,UK:NICKELODEON
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/190.ts
-#EXTINF:0,UK:PREMIER SPORTS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/188.ts
-#EXTINF:0,UK:SETANTA SPORTS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/175.ts
-#EXTINF:0,UK:SKY MOVIES ACTION
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/187.ts
-#EXTINF:0,UK:SKY MOVIES COMEDY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/186.ts
-#EXTINF:0,UK:SKY MOVIES DISNEY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/185.ts
-#EXTINF:0,UK:SKY MOVIES PREMIERE
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/183.ts
-#EXTINF:0,UK:SKY MOVIES THRILLER
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/181.ts
-#EXTINF:0,UK:SKY SPORTS 1
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/180.ts
-#EXTINF:0,UK:SKY SPORTS 2
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/179.ts
-#EXTINF:0,UK:SKY SPORTS 3
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/178.ts
-#EXTINF:0,UK:SKY SPORTS 4
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/177.ts
-#EXTINF:0,UK-SKY SPORTS 5
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/728.ts
-#EXTINF:0,UK:SKY SPORTS F1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/203.ts
-#EXTINF:0,UK:SONY MOVIES
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/201.ts
-#EXTINF:0,UK:TRUE DRAMA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/200.ts
-#EXTINF:0,FR-ANIMAUX HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/731.ts
-#EXTINF:0,FR- Bein Sports 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/730.ts
-#EXTINF:0,FR-BEINSPORT 3
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/732.ts
-#EXTINF:0,FR-CANAL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/733.ts
-#EXTINF:0,FR-Canal   Sport
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/734.ts
-#EXTINF:0,FR-Canal  Cinema HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/735.ts
-#EXTINF:0,FR-CHASSE & PECHE
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/742.ts
-#EXTINF:0,FR-CINE EMOTION
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/736.ts
-#EXTINF:0,FR-CINE PREMIER HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/737.ts
-#EXTINF:0,FR-D17
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/738.ts
-#EXTINF:0,FR-DISCOVERY SCIENCE HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/739.ts
-#EXTINF:0,FR-DISNEY JR
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/740.ts
-#EXTINF:0,FR-EUROSPORT
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/741.ts
-#EXTINF:0,FR-FRANCE 24
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/743.ts
-#EXTINF:0,FR-La Tele
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/744.ts
-#EXTINF:0,FR-M6
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/745.ts
-#EXTINF:0,FR-NAT GEO WILD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/746.ts
-#EXTINF:0,FR-Planete
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/747.ts
-#EXTINF:0,FR-W9
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/748.ts
-#EXTINF:0,FR- Bein Sports 1 HD - A
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/729.ts
-#EXTINF:0,ES:C + DEPORTES 2
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/277.ts
-#EXTINF:0,ES:C + FUTBOL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/276.ts
-#EXTINF:0,ES:C + LIGA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/275.ts
-#EXTINF:0,ES:C + SERIES
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/282.ts
-#EXTINF:0,FR - TF1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/690.ts
-#EXTINF:0,IT:FOX HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/299.ts
-#EXTINF:0,IT:PREMIUM COMEDY
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/300.ts
-#EXTINF:0,IT:RAI 1 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/301.ts
-#EXTINF:0,IT:RAI 2 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/293.ts
-#EXTINF:0,IT:RAI 3 HD
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/292.ts
-#EXTINF:0,[_Rádios_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/609.ts
-#EXTINF:0,RÁDIO AMÁLIA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/590.ts
-#EXTINF:0,RÁDIO CANÇÃO NOVA
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/608.ts
-#EXTINF:0,RÁDIO CASCAIS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/606.ts
-#EXTINF:0,RÁDIO DOURO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/592.ts
-#EXTINF:0,RÁDIO FM
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/594.ts
-#EXTINF:0,RÁDIO ORBITAL
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/588.ts
-#EXTINF:0,RÁDIO OXIGENIO
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/591.ts
-#EXTINF:0,RÁDIO RADAR
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/589.ts
-#EXTINF:0,RÁDIO ROCK
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/601.ts
-#EXTINF:0,RÁDIO RR
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/600.ts
-#EXTINF:0,RÁDIO SBSR
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/603.ts
-#EXTINF:0,RÁDIO SINES
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/605.ts
-#EXTINF:0,RÁDIO TSF
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/599.ts
-#EXTINF:0,RÁDIO MEGA HITS
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/652.ts
-#EXTINF:0,RÁDIO RFM
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/651.ts
-#EXTINF:0,[_Filmes_]
-http://ptvirtual.dnsfor.me:8000/live/TesteFacebook/6EGIGf5t83/509.ts
-#EXTINF:0,Commando
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/705.mkv
-#EXTINF:0,Conan the Destroyer
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/706.mkv
-#EXTINF:0,Discovery Channel The Science of Interstellar
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/707.mkv
-#EXTINF:0,Dont Knock Twice
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/708.mkv
-#EXTINF:0,Edge of Tomorrow
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/709.mkv
-#EXTINF:0,Fifty Shades Darker
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/710.mkv
-#EXTINF:0,Friend Request
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/711.mkv
-#EXTINF:0,In Time
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/712.mkv
-#EXTINF:0,La La Land
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/713.mkv
-#EXTINF:0,Moana
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/714.mkv
-#EXTINF:0,Monster Trucks
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/715.mkv
-#EXTINF:0,Ozzy
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/716.mkv
-#EXTINF:0,Prometheus
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/717.mkv
-#EXTINF:0,Rings 2017
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/718.mkv
-#EXTINF:0,Sheep and Wolves
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/719.mkv
-#EXTINF:0,Sing
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/720.mkv
-#EXTINF:0,The Great Wall
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/721.mkv
-#EXTINF:0,The Last Witch Hunter
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/722.mkv
-#EXTINF:0,The Lucky One
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/723.mkv
-#EXTINF:0,Universal Soldier
-http://ptvirtual.dnsfor.me:8000/movie/TesteFacebook/6EGIGf5t83/724.mkv
-
-
-
-
-
-
-
 
 #EXTINF:0,A&E
 http://178.193.237.115:9000/play/a019
@@ -669,6 +72,310 @@ http://178.193.237.115:9000/play/a01a
 http://msk4.peers.tv/streaming/vh1/16/tvrec/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
 #EXTINF:0,MTV Hits
 http://185.53.163.85:8888/play/a01k
+
+
+
+
+
+
+
+
+#EXTINF:-1,tnt
+https://cdn.opencable.es/hls/live/tnt/index.m3u8
+#EXTINF:-1,fox
+https://cdn.opencable.es/hls/live/fox/index.m3u8
+#EXTINF:-1,cosmo
+https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u8
+#EXTINF:-1,foxlife
+https://cdn.opencable.es/hls/live/foxlife/index.m3u8
+#EXTINF:-1,neox
+https://cdn.opencable.es/hls/live/neox/index.m3u8
+#EXTINF:-1,nova
+https://cdn.opencable.es/hls/live/nova/index.m3u8
+#EXTINF:-1,energy
+https://cdn.opencable.es/hls/live/energy/index.m3u8
+#EXTINF:-1,mega
+https://cdn.opencable.es/hls/live/mega/index.m3u8
+#EXTINF:-1,ten
+https://cdn.opencable.es/hls/live/ten/index.m3u8
+#EXTINF:-1,fdf
+https://cdn.opencable.es/hls/live/fdf/index.m3u8
+#EXTINF:-1,divinity
+https://cdn.opencable.es/hls/live/divinity/index.m3u8
+#EXTINF:-1,clan
+https://cdn.opencable.es/hls/live/clan/index.m3u8
+#EXTINF:-1,boing
+https://cdn.opencable.es/hls/live/boing/index.m3u8
+#EXTINF:-1,FightTime
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+
+#EXTINF:-1,#0
+http://edge2.telesport.pw/live/plus1/index.m3u8
+#EXTINF:-1,ESTRENOS
+http://edge2.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1,ACCION
+http://edge2.telesport.pw/live/plusaccion/index.m3u8
+#EXTINF:-1,COMEDIA
+http://edge2.telesport.pw/live/comedia/index.m3u8
+#EXTINF:-1,TNT
+http://edge2.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1,AXN
+http://edge2.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1,FOX
+http://edge2.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1,FOXLIFE
+http://edge2.telesport.pw/live/foxlife/index.m3u8
+#EXTINF:-1,CALLE13
+http://edge2.telesport.pw/live/calle13/index.m3u8
+#EXTINF:-1,SYFY
+http://edge2.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1,AMC
+http://edge2.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1,TCM
+http://edge2.telesport.pw/live/tcm/index.m3u8
+#EXTINF:-1,HISTORIA
+http://edge2.telesport.pw/live/historia/index.m3u8
+#EXTINF:-1,ODISEA
+http://edge2.telesport.pw/live/odisea/index.m3u8
+#EXTINF:-1,TELECINCO
+http://edge2.telesport.pw/live/telecinco/index.m3u8
+#EXTINF:-1,FDF
+http://edge2.telesport.pw/live/fdf/index.m3u8
+#EXTINF:-1,GOLF
+http://edge2.telesport.pw/live/golf/index.m3u8
+#EXTINF:-1,TEN
+http://edge2.telesport.pw/live/ten/index.m3u8
+#EXTINF:-1,DMAX
+http://edge2.telesport.pw/live/dmax/index.m3u8
+#EXTINF:-1,DKISS
+http://edge2.telesport.pw/live/dkiss/index.m3u8
+#EXTINF:-1,NATGEO WILD
+http://edge3.telesport.pw/live/nationalwild/index.m3u8 
+#EXTINF:-1,CazayPesca
+http://edge2.telesport.pw/live/cazaypesca/index.m3u8
+
+
+#EXTINF:-1,comedia
+http://cdn2.shurs.xyz/verliga/1/playlist.m3u8
+#EXTINF:-1,dcine
+http://cdn2.shurs.xyz/verliga/3/playlist.m3u8
+#EXTINF:-1,cinemax
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1,WIN sport
+http://cdn2.shurs.xyz/verliga/5/playlist.m3u8
+#EXTINF:-1,cocina
+http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
+#EXTINF:-1,tnt (latino)
+http://cdn2.shurs.xyz/verliga/7/playlist.m3u8
+#EXTINF:-1,xxl
+http://cdn2.shurs.xyz/verliga/10/playlist.m3u8 
+#EXTINF:-1,redligth
+http://cdn2.shurs.xyz/verliga/11/playlist.m3u8
+#EXTINF:-1,cdf
+http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
+#EXTINF:-1,telecinco
+http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8 
+#EXTINF:-1,cuatro
+http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8 
+#EXTINF:-1,divinity
+http://cdn2.shurs.xyz/verdirectotv/3/playlist.m3u8 
+#EXTINF:-1,antena3
+http://cdn2.shurs.xyz/verdirectotv/4/playlist.m3u8 
+#EXTINF:-1,Paramount Channel
+http://cdn2.shurs.xyz/verdirectotv/5/playlist.m3u8 
+#EXTINF:-1,lasexta
+http://cdn2.shurs.xyz/verdirectotv/6/playlist.m3u8 
+#EXTINF:-1,a3series
+http://cdn2.shurs.xyz/verdirectotv/7/playlist.m3u8 
+#EXTINF:-1,Comedy Central
+http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8 
+#EXTINF:-1,toros
+http://cdn2.shurs.xyz/verdirectotv/9/playlist.m3u8 
+#EXTINF:-1,hollywood
+http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8 
+#EXTINF:-1,discovery
+http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8 
+#EXTINF:-1,energy
+http://cdn2.shurs.xyz/verdirectotv/12/playlist.m3u8 
+#EXTINF:-1,nova
+http://cdn2.shurs.xyz/verdirectotv/13/playlist.m3u8 
+#EXTINF:-1,BeMad
+http://cdn2.shurs.xyz/verdirectotv/14/playlist.m3u8 
+#EXTINF:-1,cosmo
+http://cdn2.shurs.xyz/verdirectotv/15/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ES_USA",ES:TNT
+http://edge2.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:AXN
+http://edge2.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:FOX
+http://edge2.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:FOXLIFE
+http://edge2.telesport.pw/live/foxlife/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:CALLE13
+http://edge2.telesport.pw/live/calle13/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:SYFY
+http://edge2.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:AMC
+http://edge2.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:TCM
+http://edge2.telesport.pw/live/tcm/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:HISTORIA
+http://edge2.telesport.pw/live/historia/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:ODISEA
+http://edge2.telesport.pw/live/odisea/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:TELECINCO
+http://edge2.telesport.pw/live/telecinco/index.m3u8
+#EXTINF:-1 group-title="ES_USA",ES:FDF
+http://edge2.telesport.pw/live/fdf/index.m3u8
+
+#EXTINF:-1 group-title="ES_USA",ES:TEN
+http://edge2.telesport.pw/live/ten/index.m3u8
+#EXTINF:-1 group-title="ES_USA",FDF
+http://edge1.telesport.pw/live/fdf/index.m3u8
+#EXTINF:-1 group-title="ES_USA",Life TV
+http://109.236.91.150:8080/A1:LifeTV/manifest.f4m
+#EXTINF:-1 group-title="ES_USA",ESPECIAL Viajar
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+
+
+#EXTINF:-1,Dcine Ñ
+http://edge3.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://edge1.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+#EXTINF:-1,AMC
+http://edge1.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+#EXTINF:-1,Life TV
+http://109.236.91.150:8080/A1:LifeTV/manifest.f4m
+#EXTINF:-1,M SERIES
+http://edge1.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTINF:-1,M SERIES XTRA
+http://edge1.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+#EXTINF:-1,tnt
+http://edge1.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+#EXTINF:-1,AXN
+http://edge1.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+#EXTINF:-1,AXN WHITE
+http://edge2.livesports.pw/live/veraxnwahit4cc7f14e202608/index.m3u8 
+#EXTINF:-1,FOX
+http://edge1.livesports.pw/live/verfoxespana247756767558f/index.m3u8
+#EXTINF:-1,calle13
+http://edge1.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+#EXTINF:-1,SYFY
+http://edge1.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+#EXTINF:-1,COSMO
+http://edge1.livesports.pw/live/vercosmos250d386e5f510f45/index.m3u8
+#EXTINF:-1,comedycentral
+http://edge1.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+
+
+
+#EXTINF:-1 group-title="ES_USA",USA Channel
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+#EXTINF:-1 group-title="ES_USA",TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1 group-title="ES_USA",DISCOVERY
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1,CANALP ESPAÑA:TOROS
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/97.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:#0
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/114.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+
+#EXTINF:-1,CANALP ESPAÑA:ESTRENOS
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/79.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:DCINE
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/70.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:ACCION
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/56.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:COMEDIA
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/65.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:XTRA
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/88.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:HOLLYWOOD
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/89.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:CALLE13
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/55.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:SYFY
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/90.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:FOX
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/86.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:FOX life
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/108.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:AXN
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/109.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:AXN WHITE
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/110.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:COSMO
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/67.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:TNT
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/111.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:SERIES
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/106.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:SERIES XTRA
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/117.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:CAZAyPESCA
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/61.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:NAT GEO
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/102.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:NAT GEO WILD
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/103.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:HISTORIA
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/104.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:DISCOVERY
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/73.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:IBERALIA
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/105.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:LA1
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/98.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:ANTENA3
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/99.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:CUATRO
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/69.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:TELECINCO
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/101.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:DISNEY CHANNEL
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/76.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:DISNEY JUNIOR
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/75.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:NICK
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/112.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:MTV
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/113.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANALP ESPAÑA:40TV
+http://37.187.128.169:8000/live/noddhie455844/47eddr55dalkj/44.ts$OPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+
+
+
+
+
+#EXTINF:-1 group-title="ES_USA",BBC UK
+http://5.135.139.19:1935/server7/stream18.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",BBC 1 Wales
+http://5.135.139.19:1935/server7/stream29.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",ITV
+http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",CITV
+http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",AMC
+http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",BBC SPORT
+http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",BBC Alba
+http://5.135.139.19:1935/server7/stream21.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",STV
+http://5.135.139.19:1935/server7/stream22.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",ITV Encore
+http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",ITV
+http://5.135.139.19:1935/server7/stream31.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",Spike
+http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",S4C
+http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
+#EXTINF:-1 group-title="ES_USA",BBC Parliament
+http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=
 
 
 #EXTINF:0,BARBOSA© 2017 All rights reserved
