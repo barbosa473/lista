@@ -167,12 +167,6 @@ http://cdn2.shurs.xyz/verliga/5/playlist.m3u8
 http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
 #EXTINF:-1,tnt (latino)
 http://cdn2.shurs.xyz/verliga/7/playlist.m3u8
-#EXTINF:-1,xxl
-http://cdn2.shurs.xyz/verliga/10/playlist.m3u8 
-#EXTINF:-1,redligth
-http://cdn2.shurs.xyz/verliga/11/playlist.m3u8
-#EXTINF:-1,cdf
-http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
 #EXTINF:-1,telecinco
 http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8 
 #EXTINF:-1,cuatro
