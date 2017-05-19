@@ -51,10 +51,7 @@ https://cld.pt/dl/download/6de54bfc-6bff-4d37-8e7d-e7075f493de3/La%20La%20Land.m
 https://cld.pt/dl/download/13236953-e617-4e00-a557-ba46bd1cb16c/Arrival.mkv
 #EXTINF:0,INFERNO [2016] (Leg)[COLOR blue]•[/COLOR]Inferno
 https://cld.pt/dl/download/2c8e7132-6ba6-443c-892a-55f42bb8c538/Inferno.mkv
-#EXTINF:0,Sahara 
-http://188.213.242.227/hls2/nruqjom7li2qedz7nj6rrardbst2pcx25djyuswcm,5ewo5prdx46gl4kyy3q,wcwo5prdx456tcigzmq,.urlset/master.m3u8
-#EXTINF:0,Velocidade furiosa 8
-http://89.46.103.125/hls2/m5uqjofuli2qedz7nj5rrflvju2tsio3dowp7b7bq,ts2qelgwvkfux2qvmpa,zdkqelgwvkfk7szsedq,.urlset/master.m3u8
+
 #EXTINF:0,A&E
 http://178.193.237.115:9000/play/a019
 #EXTINF:0,AMC
