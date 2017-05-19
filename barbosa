@@ -1,6 +1,4 @@
-#EXTINF:0,FILMES
-http://orbit-iptv.com:2500/live/990/990/2292.ts
-
+#EXTM3U
 
 #EXTINF:0,A&E
 http://178.193.237.115:9000/play/a019
