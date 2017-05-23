@@ -1,4 +1,27 @@
 #EXTM3U
+
+#EXTINF:0 tvg-ID="" tvg-name="SportTV 1 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 1 SD LOW
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+#EXTINF:0 tvg-ID="" tvg-name="SportTV 3 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 3 SD LOW
+rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
+
+#EXTINF:0,RTP1
+http://4.31.30.145:9198
+#EXTINF:0,tvi ficçao
+http://4.31.30.145:9004
+#EXTINF:0,tvi internacionaal
+http://4.31.30.145:9001
+#EXTINF:0,tvi reality
+http://4.31.30.145:9040
+#EXTINF:0,Afro music
+http://4.31.30.145:9034
+#EXTINF:0,tlc
+http://4.31.30.145:9043
+#EXTINF:0,GLOBO
+http://4.31.30.145:9202
+#EXTINF:0,SYFY
+http://4.31.30.145:9206
+
 #EXTINF:0,GLOBO PORTUGAL SD
 http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/733.ts
 #EXTINF:0,GLOBO PREMIUM SD
