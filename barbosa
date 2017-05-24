@@ -285,138 +285,253 @@ http://4.31.30.145:9202
 #EXTINF:0,SYFY
 http://4.31.30.145:9206
 
-#EXTINF:0,GLOBO PORTUGAL SD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/733.ts
-#EXTINF:0,GLOBO PREMIUM SD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1024.ts
-#EXTINF:0,RECORD PT FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/416.ts
-#EXTINF:0,TV CINE 1 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/777.ts
-#EXTINF:0,TV CINE 2 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/778.ts
-#EXTINF:0,TV CINE 3 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/779.ts
-#EXTINF:0,TV CINE 4 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/780.ts
-#EXTINF:0,TV CINE SERIES FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/781.ts
-#EXTINF:0,AMC HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/767.ts
-#EXTINF:0,AXN FULL HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/776.ts
-#EXTINF:0,AXN BLACK FULL HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/783.ts
-#EXTINF:0,AXN White FULL HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/786.ts
-#EXTINF:0,FOX FULL HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/771.ts
-#EXTINF:0,FOX LIFE FULL HD PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/963.ts
-#EXTINF:0,FOX COMEDY HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/784.ts
-#EXTINF:0,FOX MOVIES FULL HD PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/962.ts
-#EXTINF:0,FOX CRIME FULL HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/785.ts
-#EXTINF:0,HOLLYWOOD HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/782.ts
-#EXTINF:0,DISCOVERY SHOW CASE HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/770.ts
-#EXTINF:0,NAT GEO WILD HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/768.ts
-#EXTINF:0,NAT GEO HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/769.ts
-#EXTINF:0,BABY FIRTS – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1384.ts
-#EXTINF:0,CARTOON NETWORK – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1386.ts
-#EXTINF:0,FASHION TV HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1455.ts
-#EXTINF:0,HISTORY HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1320.ts
-#EXTINF:0,MCM POP – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1311.ts
-#EXTINF:0,MCM TOP – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1312.ts
-#EXTINF:0,MTV DANCE – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1314.ts
-#EXTINF:0,SYFY HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1319.ts
-#EXTINF:0,CRIME INVESTIGATION – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1388.ts
-#EXTINF:0,CMTV HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1389.ts
-#EXTINF:0,CBS REALITY – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1387.ts
-#EXTINF:0,CANAL Q – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1374.ts
-#EXTINF:0,SIC HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1317.ts
-#EXTINF:0,SIC MULHER – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1315.ts
-#EXTINF:0,SIC CARAS – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1378.ts
-#EXTINF:0,SIC RADICAL HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1316.ts
-#EXTINF:0,TV GALICIA – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1379.ts
-#EXTINF:0,TVI – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/774.ts
-#EXTINF:0,TVI FICÇAO – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1380.ts
-#EXTINF:0,TVI REALITY – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1381.ts
-#EXTINF:0,RTP – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1322.ts
-#EXTINF:0,RTP 2 – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/772.ts
-#EXTINF:0,RTP MADEIRA – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1377.ts
-#EXTINF:0,RTP AFRICA – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1376.ts
-#EXTINF:0,RTP ACORES – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1375.ts
-#EXTINF:0,RTP MEMORIA – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1321.ts
-#EXTINF:0,24 KITCHEN HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1382.ts
-#EXTINF:0,SUNDANCE – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1392.ts
-#EXTINF:0,MOTORVISION – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1391.ts
-#EXTINF:0,E! – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1390.ts
-#EXTINF:0,MCS EXTREME – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1313.ts
-#EXTINF:0,CINEMUNDO – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/964.ts
-#EXTINF:0,CAÇA E PESCA – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1385.ts
-#EXTINF:0,A BOLA – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1383.ts
-#EXTINF:0,SPORT TV + FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/971.ts
-#EXTINF:0,SPORTV PT 1 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/666.ts
-#EXTINF:0,SPORTV PT 2 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/667.ts
-#EXTINF:0,SPORTV PT 3 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/668.ts
-#EXTINF:0,SPORTV PT 4 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/669.ts
-#EXTINF:0,SPORTV PT 5 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/674.ts
-#EXTINF:0,BENFICA TV HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/675.ts
-#EXTINF:0,EUROSPORT HD – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1318.ts
-#EXTINF:0,REAL MADRID TV – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/766.ts
-#EXTINF:0,BEIN SPORTS – PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/758.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",RTP 1 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2709.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 (PT)" tvg-logo="" group-title="Canais Portugal",RTP 2 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2708.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD (PT)" tvg-logo="" group-title="Canais Portugal",RTP 2 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2707.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 (PT)" tvg-logo="" group-title="Canais Portugal",RTP 3 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2706.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 HD (PT)" tvg-logo="" group-title="Canais Portugal",RTP 3 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2705.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Africa (PT)" tvg-logo="" group-title="Canais Portugal",RTP Africa (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2704.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Internacional (PT)" tvg-logo="" group-title="Canais Portugal",RTP Internacional (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2703.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC HD (PT)" tvg-logo="" group-title="Canais Portugal",SIC HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2702.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias (PT)" tvg-logo="" group-title="Canais Portugal",SIC Noticias (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2581.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias HD (PT)" tvg-logo="" group-title="Canais Portugal",SIC Noticias HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2580.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality (PT)" tvg-logo="" group-title="Canais Portugal",TVI Reality (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2696.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI Reality HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2695.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E (PT)" tvg-logo="" group-title="Canais Portugal",A&E (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2656.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News (US)" tvg-logo="" group-title="",ABC News (US)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2595.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC (PT)" tvg-logo="" group-title="Canais Portugal",AMC (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2655.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black (PT)" tvg-logo="" group-title="Canais Portugal",AXN Black (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2652.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN (PT)" tvg-logo="" group-title="Canais Portugal",AXN (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2654.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black HD" tvg-logo="" group-title="",AXN Black HD
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2653.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD (PT)" tvg-logo="" group-title="Canais Portugal",AXN HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2651.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White (PT)" tvg-logo="" group-title="Canais Portugal",AXN White (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2650.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White HD (PT)" tvg-logo="" group-title="Canais Portugal",AXN White HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2649.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC News (US)" tvg-logo="" group-title="",BBC News (US)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2594.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caça e Pesca (PT)" tvg-logo="" group-title="Canais Portugal",Caça e Pesca (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caçavision (PT)" tvg-logo="" group-title="Canais Portugal",Caçavision (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Q (PT)" tvg-logo="" group-title="Canais Portugal",Canal Q (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (PT)" tvg-logo="" group-title="Canais Portugal",Cartoon Network (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2626.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality (PT)" tvg-logo="" group-title="Canais Portugal",CBS Reality (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemundo TV (PT)" tvg-logo="" group-title="Canais Portugal",Cinemundo TV (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2648.ts
+#EXTINF:-1 tvg-id="" tvg-name="CMTV (PT)" tvg-logo="" group-title="Canais Portugal",CMTV (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2712.ts
+#EXTINF:-1 tvg-id="" tvg-name="CMTV HD (PT)" tvg-logo="" group-title="Canais Portugal",CMTV HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2711.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN (US)" tvg-logo="" group-title="",CNN (US)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2593.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Channel (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2608.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Channel HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Showcase (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase HD (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Showcase HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (PT)" tvg-logo="" group-title="Canais Portugal",Disney Channel (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2625.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior (PT)" tvg-logo="" group-title="Canais Portugal",Disney Junior (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2624.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment (PT)" tvg-logo="" group-title="Canais Portugal",E! Entertainment (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews (PT)" tvg-logo="" group-title="Canais Portugal",Euronews (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2592.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Espanha (ES)" tvg-logo="" group-title="",Euronews Espanha (ES)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews France (FR)" tvg-logo="" group-title="",Euronews France (FR)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Germany (DE)" tvg-logo="" group-title="",Euronews Germany (DE)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Italia (IT)" tvg-logo="" group-title="",Euronews Italia (IT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport 1 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport 2 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 Xtra (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport 2 Xtra (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport News (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport News (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2591.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box (PT)" tvg-logo="" group-title="Canais Portugal",Fight Box (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network (PT)" tvg-logo="" group-title="Canais Portugal",Fight Network (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network (PT)" tvg-logo="" group-title="Canais Portugal",Food Network (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 23 News (US)" tvg-logo="" group-title="",Fox 23 News (US)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2586.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 30 News (US)" tvg-logo="" group-title="",Fox 30 News (US)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy (PT)" tvg-logo="" group-title="Canais Portugal",Fox Comedy (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime (PT)" tvg-logo="" group-title="Canais Portugal",Fox Crime (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2644.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD (PT)" tvg-logo="" group-title="Canais Portugal",Fox HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD (PT)" tvg-logo="" group-title="Canais Portugal",Fox Life HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies (PT)" tvg-logo="" group-title="Canais Portugal",Fox Movies (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2642.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV (PT)" tvg-logo="" group-title="Canais Portugal",Fuel TV (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood TV HD (PT)" tvg-logo="" group-title="Canais Portugal",Hollywood TV HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2640.ts
+#EXTINF:-1 tvg-id="" tvg-name="JimJam (PT)" tvg-logo="" group-title="Canais Portugal",JimJam (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kombat Sports (PT)" tvg-logo="" group-title="Canais Portugal",Kombat Sports (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2681.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop (PT)" tvg-logo="" group-title="Canais Portugal",MCM Pop (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2619.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top (PT)" tvg-logo="" group-title="Canais Portugal",MCM Top (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2618.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCS Extreme (PT)" tvg-logo="" group-title="Canais Portugal",MCS Extreme (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2617.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCS Lifestyle (PT)" tvg-logo="" group-title="Canais Portugal",MCS Lifestyle (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision HD (PT)" tvg-logo="" group-title="Canais Portugal",Motorvision HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2679.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base (PT)" tvg-logo="" group-title="Canais Portugal",MTV Base (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2615.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic (PT)" tvg-logo="" group-title="Canais Portugal",MTV Classic (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2614.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance (PT)" tvg-logo="" group-title="Canais Portugal",MTV Dance (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2613.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal (PT)" tvg-logo="" group-title="Canais Portugal",MTV Portugal (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2612.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD (PT)" tvg-logo="" group-title="Canais Portugal",NatGeo Wild HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2600.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2604.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2603.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic Wild (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2602.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic Wild HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick (PT)" tvg-logo="" group-title="Canais Portugal",Nick (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisseia TV (PT)" tvg-logo="" group-title="Canais Portugal",Odisseia TV (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2599.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panda Biggs (PT)" tvg-logo="" group-title="Canais Portugal",Panda Biggs (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panda HD (PT)" tvg-logo="" group-title="Canais Portugal",Panda HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2620.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAI News (IT)" tvg-logo="" group-title="",RAI News (IT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2583.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 (IT)" tvg-logo="" group-title="",SKY TG 24 (IT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV   (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV   (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV   HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV   HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 1 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 1 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 2 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 2 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 3 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 3 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 4 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 5 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel (PT)" tvg-logo="" group-title="Canais Portugal",Sundance Channel (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2639.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy (PT)" tvg-logo="" group-title="Canais Portugal",SyFy (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2638.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History (PT)" tvg-logo="" group-title="Canais Portugal",The History (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2597.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History HD (PT)" tvg-logo="" group-title="Canais Portugal",The History HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2596.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC (PT)" tvg-logo="" group-title="Canais Portugal",TLC (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban TV (PT)" tvg-logo="" group-title="Canais Portugal",Trace Urban TV (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel (PT)" tvg-logo="" group-title="Canais Portugal",Travel Channel (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2598.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Record Portugal (PT)" tvg-logo="" group-title="Canais Portugal",TV Record Portugal (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2658.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Record Portugal HD (PT)" tvg-logo="" group-title="Canais Portugal",TV Record Portugal HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2657.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Series (PT)" tvg-logo="" group-title="Canais Portugal",TV Series (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2636.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Series HD (PT)" tvg-logo="" group-title="Canais Portugal",TV Series HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2635.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 1 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 1 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2634.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 1 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2633.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 2 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2632.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 2 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2631.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 3 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 3 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2630.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 3 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 3 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2629.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 4 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 4 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2628.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 4 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 4 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2627.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24 (PT)" tvg-logo="" group-title="Canais Portugal",TVI 24 (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI 24 HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2699.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção (PT)" tvg-logo="" group-title="Canais Portugal",TVI Ficção (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2698.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficçao HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI Ficçao HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2697.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI HD (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2701.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic (PT)" tvg-logo="" group-title="Canais Portugal",VH1 Classic (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2610.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Portugal (PT)" tvg-logo="" group-title="Canais Portugal",VH1 Portugal (PT)
+http://ns526261.ip-149-56-16.net:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2609.ts
+ 
+ 
 
+#EXTINF:-1 group-title="PORTUGAL",VH1
+http://5.198.124.88:8001/1:0:1:1B5A:7DA:2:11A0000:0:0:0::VH1
+#EXTINF:-1 group-title="PORTUGAL",NOW 80s
+http://5.198.124.88:8001/1:0:1:CB2A:839:2:11A0000:0:0:0::NOW 80s
 
 
 #EXTINF:0,VH1 Classic
