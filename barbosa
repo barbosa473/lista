@@ -1,3 +1,900 @@
+#EXTM3U
+#EXTINF:0,RTP 1
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/1.ts
+#EXTINF:0,RTP 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/333.ts
+#EXTINF:0,RTP 1 BK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/926.ts
+#EXTINF:0,RTP 2
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/2.ts
+#EXTINF:0,RTP 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/332.ts
+#EXTINF:0,RTP 2 BK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/925.ts
+#EXTINF:0,SIC
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/3.ts
+#EXTINF:0,SIC HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/331.ts
+#EXTINF:0,SIC BK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/924.ts
+#EXTINF:0,TVI
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/4.ts
+#EXTINF:0,TVI HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/330.ts
+#EXTINF:0,TVI BK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/923.ts
+#EXTINF:0,SIC NOTICIAS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/10.ts
+#EXTINF:0,SIC MULHER
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/20.ts
+#EXTINF:0,TVI 24
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/11.ts
+#EXTINF:0,RTP 3
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/5.ts
+#EXTINF:0,SIC RADICAL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/19.ts
+#EXTINF:0,SIC RADICAL HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/696.ts
+#EXTINF:0,GLOBO PREMIUM
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/50.ts
+#EXTINF:0,GLOBO PT
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/48.ts
+#EXTINF:0,TVI REALITY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/13.ts
+#EXTINF:0,PORTO CANAL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/71.ts
+#EXTINF:0,SIC CARAS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/18.ts
+#EXTINF:0,CANAL Q
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/30.ts
+#EXTINF:0,RTP MADEIRA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/7.ts
+#EXTINF:0,RTP ACORES
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/9.ts
+#EXTINF:0,RTP MEMORIA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/6.ts
+#EXTINF:0,RTP AFRICA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/8.ts
+#EXTINF:0,SANTUÁRIO DE FÁTIMA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/613.ts
+#EXTINF:0,[_Desporto Nacional_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/451.ts
+#EXTINF:0,SPORT TV 1 SD [_EXTRA_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/725.ts
+#EXTINF:0,SPORT TV 1 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/216.ts
+#EXTINF:0,SPORT TV 2 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/217.ts
+#EXTINF:0,SPORT TV 3 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/218.ts
+#EXTINF:0,SPORT TV 4 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/219.ts
+#EXTINF:0,SPORT TV 5 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/220.ts
+#EXTINF:0,SPORT TV 1 HD [_EXTRA_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/542.ts
+#EXTINF:0,SPORT TV 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/60.ts
+#EXTINF:0,SPORT TV 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/61.ts
+#EXTINF:0,SPORT TV 3 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/62.ts
+#EXTINF:0,SPORT TV 4 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/63.ts
+#EXTINF:0,SPORT TV 5 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/64.ts
+#EXTINF:0,BENFICA TV 1 SD [_EXTRA_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/726.ts
+#EXTINF:0,BENFICA TV 1 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/221.ts
+#EXTINF:0,BENFICA TV 1 HD [_EXTRA_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/543.ts
+#EXTINF:0,BENFICA TV 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/65.ts
+#EXTINF:0,SPORTING TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/70.ts
+#EXTINF:0,SPORTING TV HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/697.ts
+#EXTINF:0,[_Infantil_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/452.ts
+#EXTINF:0,100):origin()/pre06/17a7/th/pre/f/2011/239/2/0/disney_channel_logo_png_by_tutorialestppr-d47zjhc.png" group-title="PT" - DISNEY CHANNEL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/23.ts
+#EXTINF:0,NICKELODEON
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/27.ts
+#EXTINF:0,CANAL PANDA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/26.ts
+#EXTINF:0,DISNEY JR
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/24.ts
+#EXTINF:0,CARTOON NETWORK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/25.ts
+#EXTINF:0,BABY TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/29.ts
+#EXTINF:0,PANDA BIGGS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/22.ts
+#EXTINF:0,JIM JAM
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/28.ts
+#EXTINF:0,SIC KIDS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/21.ts
+#EXTINF:0,[_Entretenimento_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/453.ts
+#EXTINF:0,TVCINE 1 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/570.ts
+#EXTINF:0,TVCINE 2 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/571.ts
+#EXTINF:0,TVCINE 3 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/572.ts
+#EXTINF:0,TVCINE 4 SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/573.ts
+#EXTINF:0,TVCINE 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/85.ts
+#EXTINF:0,TVCINE 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/86.ts
+#EXTINF:0,TVCINE 3 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/87.ts
+#EXTINF:0,TVCINE 4 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/88.ts
+#EXTINF:0,HOLLYWOOD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/92.ts
+#EXTINF:0,HOLLYWOOD HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/428.ts
+#EXTINF:0,E! ENTERTAINMENT
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/442.ts
+#EXTINF:0,AXN BLACK HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/80.ts
+#EXTINF:0,AXN HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/78.ts
+#EXTINF:0,AXN WHITE HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/79.ts
+#EXTINF:0,FOX COMEDY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/35.ts
+#EXTINF:0,FOX HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/81.ts
+#EXTINF:0,FOX LIFE HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/82.ts
+#EXTINF:0,FOX CRIME HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/83.ts
+#EXTINF:0,FOX MOVIES
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/84.ts
+#EXTINF:0,TVSERIES SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/574.ts
+#EXTINF:0,TVSERIES HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/89.ts
+#EXTINF:0,[_Documentários_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/454.ts
+#EXTINF:0,24H KITCHEN HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/41.ts
+#EXTINF:0,FOOD NETWORK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/223.ts
+#EXTINF:0,A BOLA TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/57.ts
+#EXTINF:0,AMC
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/93.ts
+#EXTINF:0,CBS REALITY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/34.ts
+#EXTINF:0,CINEMUNDO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/91.ts
+#EXTINF:0,CMTV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/350.ts
+#EXTINF:0,CMTV HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/701.ts
+#EXTINF:0,SUNDANCE HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/700.ts
+#EXTINF:0,DISCOVERY CHANNEL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/44.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/42.ts
+#EXTINF:0,DISCOVERY SHOWCASE HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/43.ts
+#EXTINF:0,NATIONAL GEO WILD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/45.ts
+#EXTINF:0,NAT GEO WILD HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/699.ts
+#EXTINF:0,ODISSEIA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/38.ts
+#EXTINF:0,TRAVEL CHANNEL HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/288.ts
+#EXTINF:0,HISTORIA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/46.ts
+#EXTINF:0,A&E
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/33.ts
+#EXTINF:0,[_Outros_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/455.ts
+#EXTINF:0,EURONEWS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/16.ts
+#EXTINF:0,EUROSPORT NEWS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/579.ts
+#EXTINF:0,EUROSPORT 1 BRITISH
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/537.ts
+#EXTINF:0,EUROSPORT 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/58.ts
+#EXTINF:0,EUROSPORT 2
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/59.ts
+#EXTINF:0,SPORT TV +
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/367.ts
+#EXTINF:0,SPORT TV + HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/629.ts
+#EXTINF:0,FUEL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/349.ts
+#EXTINF:0,TOROS TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/77.ts
+#EXTINF:0,CACA & PESCA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/76.ts
+#EXTINF:0,CAÇAVISION
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/247.ts
+#EXTINF:0,MOTORVISION
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/75.ts
+#EXTINF:0,KOMBAT SPORT
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/348.ts
+#EXTINF:0,NBA TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/577.ts
+#EXTINF:0,MOTORS TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/74.ts
+#EXTINF:0,PFC
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/72.ts
+#EXTINF:0,MTV PT
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/117.ts
+#EXTINF:0,MEZZO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/580.ts
+#EXTINF:0,AFRO MUSIC
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/249.ts
+#EXTINF:0,MCM POP
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/108.ts
+#EXTINF:0,TRACE
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/118.ts
+#EXTINF:0,AKA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/693.ts
+#EXTINF:0,CAPITAL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/694.ts
+#EXTINF:0,HEART
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/695.ts
+#EXTINF:0,VH1
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/704.ts
+#EXTINF:0,ONE 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/665.ts
+#EXTINF:0,ONE 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/666.ts
+#EXTINF:0,ONE 3 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/667.ts
+#EXTINF:0,MCS LIFESTYLE
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/440.ts
+#EXTINF:0,TVI FICCAO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/12.ts
+#EXTINF:0,SYFY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/39.ts
+#EXTINF:0,TLC
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/36.ts
+#EXTINF:0,FASHION TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/703.ts
+#EXTINF:0,TV RECORD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/47.ts
+#EXTINF:0,TPA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/581.ts
+#EXTINF:0,BLOOMBERG
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/494.ts
+#EXTINF:0,CANÇÃO NOVA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/612.ts
+#EXTINF:0,LIVE ESPAÇO STREAM
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/615.ts
+#EXTINF:0,ANN7 SOUTH AFRICA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/619.ts
+#EXTINF:0,MUTV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/702.ts
+#EXTINF:0,REAL MADRID TV HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/617.ts
+#EXTINF:0,RUSSIA TODAY HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/495.ts
+#EXTINF:0,FRANCE 24
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/496.ts
+#EXTINF:0,BBC WORLD NEWS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/669.ts
+#EXTINF:0,CBS NEWS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/664.ts
+#EXTINF:0,DW
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/618.ts
+#EXTINF:0,[_Brasil_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/458.ts
+#EXTINF:0,BR: Globo SP HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/919.ts
+#EXTINF:0,BR: GLOBO SP SD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/51.ts
+#EXTINF:0,BR: GLOBO BRASIL HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/427.ts
+#EXTINF:0,BR: GLOBO SP HD+
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/922.ts
+#EXTINF:0,BR: RECORD SP
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/653.ts
+#EXTINF:0,BR: RECORD BRASIL HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/53.ts
+#EXTINF:0,BR: SBT
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/383.ts
+#EXTINF:0,BR: SBT HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/466.ts
+#EXTINF:0,BR: BAND
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/624.ts
+#EXTINF:0,BR: GNT
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/658.ts
+#EXTINF:0,BR: REDE TV
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/309.ts
+#EXTINF:0,BR: CARTOON NETWORK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/377.ts
+#EXTINF:0,BR: DISNEY JR
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/378.ts
+#EXTINF:0,BR: NICKELODEON
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/426.ts
+#EXTINF:0,BR: DISNEY XD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/566.ts
+#EXTINF:0,BR: TOONCAST
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/567.ts
+#EXTINF:0,BR: RECORD NEWS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/49.ts
+#EXTINF:0,BR: BAND NEWS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/622.ts
+#EXTINF:0,BR: DISCOVERY CHANNEL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/621.ts
+#EXTINF:0,BR: DISCOVERY H&H
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/620.ts
+#EXTINF:0,BR: DISCOVERY TURBO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/534.ts
+#EXTINF:0,BR: COMBATE
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/533.ts
+#EXTINF:0,BR: SPORT TV 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/414.ts
+#EXTINF:0,BR: SPORT TV 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/415.ts
+#EXTINF:0,BR: SPORT TV 3 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/625.ts
+#EXTINF:0,BR: PREMIERE CLUBS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/547.ts
+#EXTINF:0,BR: PREMIERE 2
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/544.ts
+#EXTINF:0,BR: PREMIERE 5
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/545.ts
+#EXTINF:0,BR: PREMIERE 9
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/546.ts
+#EXTINF:0,BR: ESPN BRASIL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/536.ts
+#EXTINF:0,BR: ESP. INTERATIVO EI-MAXX
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/289.ts
+#EXTINF:0,BR: Band Sports
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/431.ts
+#EXTINF:0,BR: Band Sports HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/921.ts
+#EXTINF:0,BR: Fox Sports HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/920.ts
+#EXTINF:0,BR: TELECINE ACTION HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/424.ts
+#EXTINF:0,BR: TELECINE FUN HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/384.ts
+#EXTINF:0,BR: TELECINE PIPOCA HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/387.ts
+#EXTINF:0,BR: TELECINE PREMIUM HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/423.ts
+#EXTINF:0,BR: TELECINE TOUCH HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/425.ts
+#EXTINF:0,BR: FOX HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/750.ts
+#EXTINF:0,BR: AXN
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/628.ts
+#EXTINF:0,BR: Discovery Channel HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/753.ts
+#EXTINF:0,BR: Discovery Civilization
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/754.ts
+#EXTINF:0,BR: Discovery Kids
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/755.ts
+#EXTINF:0,BR:HISTORY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/756.ts
+#EXTINF:0,BR: TV APARECIDA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/52.ts
+#EXTINF:0,BR: TV ESCOLA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/305.ts
+#EXTINF:0,BR: CANAL RURAL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/660.ts
+#EXTINF:0,BR: TV CULTURA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/662.ts
+#EXTINF:0,BR TELECINE PREMIUM HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/916.ts
+#EXTINF:0,BR: EI Max 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/910.ts
+#EXTINF:0,BR: ESPN + HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/911.ts
+#EXTINF:0,BR: FOX SPORT 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/912.ts
+#EXTINF:0,BR: HBO HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/918.ts
+#EXTINF:0,BR: MULTISHOW HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/917.ts
+#EXTINF:0,BR: PREMIERE 2 HQ
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/913.ts
+#EXTINF:0,BR: PREMIERE CLUBES HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/914.ts
+#EXTINF:0,BR: SporTV 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/915.ts
+#EXTINF:0,BR: Telecine Pipoca HD 2
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/909.ts
+#EXTINF:0,[_Internacionais_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/457.ts
+#EXTINF:0,UK: iTV 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/429.ts
+#EXTINF:0,UK: iTV 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/430.ts
+#EXTINF:0,UK: ONE 1 MUSIC HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/114.ts
+#EXTINF:0,UK:AMC
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/202.ts
+#EXTINF:0,UK:ANIMAL PLANET
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/199.ts
+#EXTINF:0,UK:BBC 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/171.ts
+#EXTINF:0,UK:BBC 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/172.ts
+#EXTINF:0,UK:BOX NATION HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/206.ts
+#EXTINF:0,UK:BT SPORT 1
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/127.ts
+#EXTINF:0,UK:BT SPORT 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/209.ts
+#EXTINF:0,UK:BT SPORTS 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/198.ts
+#EXTINF:0,UK:BT SPORTS EUROPE
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/205.ts
+#EXTINF:0,UK:CARTOON NETWORK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/197.ts
+#EXTINF:0,UK:DISCOVERY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/196.ts
+#EXTINF:0,UK:DISCOVERY TURBO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/208.ts
+#EXTINF:0,UK:DISNEY CHANNEL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/195.ts
+#EXTINF:0,UK:DISNEY JUNIOR
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/194.ts
+#EXTINF:0,UK:ESPN HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/193.ts
+#EXTINF:0,UK:HISTORY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/192.ts
+#EXTINF:0,UK:NATIONAL GEO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/191.ts
+#EXTINF:0,UK:NICKELODEON
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/190.ts
+#EXTINF:0,UK:PREMIER SPORTS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/188.ts
+#EXTINF:0,UK:SETANTA SPORTS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/175.ts
+#EXTINF:0,UK:SKY MOVIES ACTION
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/187.ts
+#EXTINF:0,UK:SKY MOVIES COMEDY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/186.ts
+#EXTINF:0,UK:SKY MOVIES DISNEY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/185.ts
+#EXTINF:0,UK:SKY MOVIES PREMIERE
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/183.ts
+#EXTINF:0,UK:SKY MOVIES THRILLER
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/181.ts
+#EXTINF:0,UK:SKY SPORTS 1
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/180.ts
+#EXTINF:0,UK:SKY SPORTS 2
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/179.ts
+#EXTINF:0,UK:SKY SPORTS 3
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/178.ts
+#EXTINF:0,UK:SKY SPORTS 4
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/177.ts
+#EXTINF:0,UK-SKY SPORTS 5
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/728.ts
+#EXTINF:0,UK:SKY SPORTS F1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/203.ts
+#EXTINF:0,UK:SONY MOVIES
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/201.ts
+#EXTINF:0,UK:TRUE DRAMA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/200.ts
+#EXTINF:0,FR-ANIMAUX HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/731.ts
+#EXTINF:0,FR- Bein Sports 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/730.ts
+#EXTINF:0,FR-BEINSPORT 3
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/732.ts
+#EXTINF:0,FR-CANAL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/733.ts
+#EXTINF:0,FR-Canal   Sport
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/734.ts
+#EXTINF:0,FR-Canal  Cinema HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/735.ts
+#EXTINF:0,FR-CHASSE & PECHE
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/742.ts
+#EXTINF:0,FR-CINE EMOTION
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/736.ts
+#EXTINF:0,FR-CINE PREMIER HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/737.ts
+#EXTINF:0,FR-D17
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/738.ts
+#EXTINF:0,FR-DISCOVERY SCIENCE HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/739.ts
+#EXTINF:0,FR-DISNEY JR
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/740.ts
+#EXTINF:0,FR-EUROSPORT
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/741.ts
+#EXTINF:0,FR-FRANCE 24
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/743.ts
+#EXTINF:0,FR-La Tele
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/744.ts
+#EXTINF:0,FR-M6
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/745.ts
+#EXTINF:0,FR-NAT GEO WILD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/746.ts
+#EXTINF:0,FR-Planete
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/747.ts
+#EXTINF:0,FR-W9
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/748.ts
+#EXTINF:0,FR- Bein Sports 1 HD - A
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/729.ts
+#EXTINF:0,ES:C + DEPORTES 2
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/277.ts
+#EXTINF:0,ES:C + FUTBOL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/276.ts
+#EXTINF:0,ES:C + LIGA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/275.ts
+#EXTINF:0,ES:C + SERIES
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/282.ts
+#EXTINF:0,FR - TF1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/690.ts
+#EXTINF:0,IT:FOX HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/299.ts
+#EXTINF:0,IT:PREMIUM COMEDY
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/300.ts
+#EXTINF:0,IT:RAI 1 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/301.ts
+#EXTINF:0,IT:RAI 2 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/293.ts
+#EXTINF:0,IT:RAI 3 HD
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/292.ts
+#EXTINF:0,[_Rádios_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/609.ts
+#EXTINF:0,RÁDIO AMÁLIA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/590.ts
+#EXTINF:0,RÁDIO CANÇÃO NOVA
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/608.ts
+#EXTINF:0,RÁDIO CASCAIS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/606.ts
+#EXTINF:0,RÁDIO DOURO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/592.ts
+#EXTINF:0,RÁDIO FM
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/594.ts
+#EXTINF:0,RÁDIO ORBITAL
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/588.ts
+#EXTINF:0,RÁDIO OXIGENIO
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/591.ts
+#EXTINF:0,RÁDIO RADAR
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/589.ts
+#EXTINF:0,RÁDIO ROCK
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/601.ts
+#EXTINF:0,RÁDIO RR
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/600.ts
+#EXTINF:0,RÁDIO SBSR
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/603.ts
+#EXTINF:0,RÁDIO SINES
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/605.ts
+#EXTINF:0,RÁDIO TSF
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/599.ts
+#EXTINF:0,RÁDIO MEGA HITS
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/652.ts
+#EXTINF:0,RÁDIO RFM
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/651.ts
+#EXTINF:0,[_Filmes_]
+http://iptvwordline.loginto.me:8000/live/iptvwordline@gmail.com/VwFlF3Oxwb/509.ts
+#EXTINF:0,Life
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/906.mp4
+#EXTINF:0,Skyline
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/908.mp4
+#EXTINF:0,The Assignment
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/907.mp4
+#EXTINF:0,10 Cloverfield Lane
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/782.mp4
+#EXTINF:0,7 Pecados Rurais
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/781.mp4
+#EXTINF:0,A Bela E O Monstro
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/783.mp4
+#EXTINF:0,A Dogs Purpose
+http://51.15.6.208/Filmes/Filmes%20Novidades/A%20Dogs%20Purpose.mkv
+#EXTINF:0,A Monster Calls
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/785.mp4
+#EXTINF:0,About Time
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/786.mp4
+#EXTINF:0,Alien 1
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/787.mp4
+#EXTINF:0,Angels And Demons
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/789.mp4
+#EXTINF:0,Angry Birds
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/790.mp4
+#EXTINF:0,Assassins Creed
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/792.mp4
+#EXTINF:0,Arrival
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/791.mp4
+#EXTINF:0,4k Teste
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/902.mp4
+#EXTINF:0,Brave
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/796.mp4
+#EXTINF:0,Collateral Beauty
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/798.mp4
+#EXTINF:0,Blood Diamond
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/794.mp4
+#EXTINF:0,Colonia 2015
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/799.mp4
+#EXTINF:0,Branca De Neve E Os Sete Anões
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/795.mp4
+#EXTINF:0,Commando
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/807.mp4
+#EXTINF:0,Beauty And The Beast
+http://51.15.6.208/Filmes/Filmes%20Novidades/Beauty%20And%20The%20Beast.mkv
+#EXTINF:0,A Era Do Gelo 2
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/784.mp4
+#EXTINF:0,Dartacão O Filme
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/801.mp4
+#EXTINF:0,Cyborg - Jean Claude Van Damme
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/800.mp4
+#EXTINF:0,A Revolta Dos Perus
+http://51.15.6.208/Filmes/Todos/A%20Revolta%20Dos%20Perus.mkv
+#EXTINF:0,Dont Breathe
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/806.mp4
+#EXTINF:0,Edge Of Tomorrow
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/811.mp4
+#EXTINF:0,Doraemon Misterioso Museu
+http://51.15.6.208/Filmes/Todos/Doraemon%20Misterioso%20Museu.mkv
+#EXTINF:0,Doctor Strange
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/805.mp4
+#EXTINF:0,District 9
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/804.mp4
+#EXTINF:0,Fast And Furious 7
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/829.mp4
+#EXTINF:0,Dont Knock Twice
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/810.mp4
+#EXTINF:0,Discovery Channel The Science Of Interstellar
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/809.mp4
+#EXTINF:0,Central Intelligence
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/797.mp4
+#EXTINF:0,Finding Dory
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/830.mp4
+#EXTINF:0,Avatar
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/793.mp4
+#EXTINF:0,Harry Potter And The Chamber Of Secrets
+http://51.15.6.208/Filmes/Todos/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets.mkv
+#EXTINF:0,Hachiko A Dog's Story
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/833.mp4
+#EXTINF:0,Horton E O Mundo Dos Quem
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/836.mp4
+#EXTINF:0,Interstellar
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/839.mp4
+#EXTINF:0,In Time
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/814.mp4
+#EXTINF:0,Indiana Jones And The Temple Of Doom
+http://51.15.6.208/Filmes/Todos/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom.mkv
+#EXTINF:0,Inception
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/837.mp4
+#EXTINF:0,Friend Request
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/813.mp4
+#EXTINF:0,Inferno Mkv
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/838.mp4
+#EXTINF:0,Home
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/835.mp4
+#EXTINF:0,Get Out
+http://51.15.6.208/Filmes/Filmes%20Novidades/Get%20Out%202017.mkv
+#EXTINF:0,Inside Out
+http://51.15.6.208/Filmes/Todos/Inside%20Out.mkv
+#EXTINF:0,Força Ralph
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/832.mp4
+#EXTINF:0,Allied
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/788.mp4
+#EXTINF:0,Let The Right One In
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/845.mp4
+#EXTINF:0,Jason Bourne
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/841.mp4
+#EXTINF:0,Lion
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/846.mp4
+#EXTINF:0,Kingsman The Secret Service
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/842.mp4
+#EXTINF:0,Lego Movie
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/844.mp4
+#EXTINF:0,La La Land
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/815.mp4
+#EXTINF:0,Logan 2017
+http://51.15.6.208/Filmes/Filmes%20Novidades/Logan%202017.mkv
+#EXTINF:0,Kubo
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/843.mp4
+#EXTINF:0,Jack Reacher Never Go Back
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/840.mp4
+#EXTINF:0,Conan The Destroyer
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/808.mp4
+#EXTINF:0,National Geographic Before The Flood
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/852.mp4
+#EXTINF:0,Monster High Boo York Boo York
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/851.mp4
+#EXTINF:0,Man On Fire
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/849.mp4
+#EXTINF:0,Moana
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/816.mp4
+#EXTINF:0,Miss Peregrine's Home For Peculiar Children
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/850.mp4
+#EXTINF:0,Monster Trucks
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/817.mp4
+#EXTINF:0,Lucy
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/847.mp4
+#EXTINF:0,Deja Vu
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/803.mp4
+#EXTINF:0,Orphan
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/854.mp4
+#EXTINF:0,Os Croods
+http://51.15.6.208/Filmes/Todos/Os%20Croods.mkv
+#EXTINF:0,Ouija Origin Of Evil
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/855.mp4
+#EXTINF:0,Ozzy
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/818.mp4
+#EXTINF:0,O Rei Leao
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/853.mp4
+#EXTINF:0,Deepwater Horizon
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/802.mp4
+#EXTINF:0,Passengers
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/856.mp4
+#EXTINF:0,Pacific Rim
+http://51.15.6.208/Filmes/Todos/Pacific%20Rim.mkv
+#EXTINF:0,Ex Machina
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/827.mp4
+#EXTINF:0,Shaun The Sheep Movie
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/867.mp4
+#EXTINF:0,Sheep And Wolves
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/821.mp4
+#EXTINF:0,Robocop
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/861.mp4
+#EXTINF:0,San Andreas
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/866.mp4
+#EXTINF:0,Shutter Island
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/868.mp4
+#EXTINF:0,Rupture
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/865.mp4
+#EXTINF:0,Rogue One
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/864.mp4
+#EXTINF:0,Rings 2017
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/820.mp4
+#EXTINF:0,Resident Evil The Final Chapter
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/860.mp4
+#EXTINF:0,Robocop 2014
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/862.mp4
+#EXTINF:0,Rocky
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/863.mp4
+#EXTINF:0,Predator
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/858.mp4
+#EXTINF:0,Regular Show O Filme
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/859.mp4
+#EXTINF:0,Prometheus
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/819.mp4
+#EXTINF:0,Petes Dragon
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/857.mp4
+#EXTINF:0,Fist Fight
+http://51.15.6.208/Filmes/Filmes%20Novidades/Fist%20Fight.mkv
+#EXTINF:0,Sing
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/822.mp4
+#EXTINF:0,Flipper E Lopaka
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/831.mp4
+#EXTINF:0,Suicide Squad
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/872.mp4
+#EXTINF:0,Star Wars Episode Vii The Force Awakens
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/870.mp4
+#EXTINF:0,T2 Trainspotting
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/903.mp4
+#EXTINF:0,Split
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/904.mp4
+#EXTINF:0,The Age Of Adaline
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/876.mp4
+#EXTINF:0,The 5th Wave
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/875.mp4
+#EXTINF:0,Terminator Genisys
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/874.mp4
+#EXTINF:0,The Autopsy Of Jane Doe
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/877.mp4
+#EXTINF:0,Tangled 
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/873.mp4
+#EXTINF:0,Storks
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/871.mp4
+#EXTINF:0,Sininho Salva As Fadas
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/869.mp4
+#EXTINF:0,Hey Arnold! The Movie
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/834.mp4
+#EXTINF:0,The Fault In Our Stars
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/882.mp4
+#EXTINF:0,The Brothers Grimsby
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/879.mp4
+#EXTINF:0,The Great Wall
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/823.mp4
+#EXTINF:0,The Last Witch Hunter
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/824.mp4
+#EXTINF:0,The Land Before Time
+http://51.15.6.208/Filmes/Todos/The%20Land%20Before%20Time.mkv
+#EXTINF:0,The Hunger Games
+http://51.15.6.208/Filmes/Todos/The%20Hunger%20Games.mkv
+#EXTINF:0,The Conjuring 2
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/880.mp4
+#EXTINF:0,The Edge Of Seventeen
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/881.mp4
+#EXTINF:0,The Girl On The Train
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/883.mp4
+#EXTINF:0,The Legend Of Tarzan
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/885.mp4
+#EXTINF:0,The Good Dinosaur
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/884.mp4
+#EXTINF:0,The Book Of Eli
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/878.mp4
+#EXTINF:0,Independence Day Resurgence
+http://51.15.6.208/Filmes/Todos/Independence%20Day%20Resurgence.mkv
+#EXTINF:0,The Neverendingstory
+http://51.15.6.208/Filmes/Todos/The%20NeverEndingStory.mkv
+#EXTINF:0,The Revenant
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/888.mp4
+#EXTINF:0,The Martian
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/886.mp4
+#EXTINF:0,The Peanuts Movie
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/887.mp4
+#EXTINF:0,The Lucky One
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/825.mp4
+#EXTINF:0,Fifty Shades Darker
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/812.mp4
+#EXTINF:0,Titanic
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/893.mp4
+#EXTINF:0,Thor The Dark World
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/891.mp4
+#EXTINF:0,Total Recall
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/894.mp4
+#EXTINF:0,Trolls 2016
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/895.mp4
+#EXTINF:0,The Space Between Us
+http://51.15.6.208/Filmes/Filmes%20Novidades/The%20Space%20Between%20Us.mkv
+#EXTINF:0,Timecop
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/892.mp4
+#EXTINF:0,The Thirteenth Floor
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/890.mp4
+#EXTINF:0,True Lies
+http://51.15.6.208/Filmes/Todos/True%20Lies.mkv
+#EXTINF:0,The Ring 2
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/889.mp4
+#EXTINF:0,Jurassic World
+http://51.15.6.208/Filmes/Todos/Jurassic%20World.mkv
+#EXTINF:7383,World War Z
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/899.mp4
+#EXTINF:0,Wall-e
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/897.mp4
+#EXTINF:0,Universal Soldier
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/826.mp4
+#EXTINF:0,War Dogs
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/898.mp4
+#EXTINF:0,Underworld Blood Wars
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/896.mp4
+#EXTINF:0,John Wick Chapter 2
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/905.mp4
+#EXTINF:0,Zootopia
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/900.mp4
+#EXTINF:0,Xxx Return Of Xander Cage
+http://51.15.6.208/Filmes/Filmes%20Novidades/xXx%20Return%20of%20Xander%20Cage.mkv
+#EXTINF:0,Mad Max Fury Road
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/848.mp4
+#EXTINF:0,Iboy
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/901.mp4
+#EXTINF:0,Fantastic Beasts And Where To Find Them
+http://iptvwordline.loginto.me:8000/movie/iptvwordline@gmail.com/VwFlF3Oxwb/828.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/K9qTfEC.png" group-title="FILMES",ACCAO
 http://0.0.0.1234
