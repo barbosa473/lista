@@ -520,7 +520,7 @@ http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRXDBLRLEG.mp4
 
 
 
-#EXTM3U
+
 
 #EXTINF:0 tvg-ID="" tvg-name="SportTV 1 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 1 SD LOW
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
