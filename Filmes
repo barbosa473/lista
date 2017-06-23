@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/K9qTfEC.png" group-title="FILMES",ACCAO
 http://0.0.0.1234
 
-#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/324542_pt.jpg" group-title="FILMES",NOS LIMITES DA LEI (Leg)[COLOR blue]•[/COLOR]NOS LIMITES DA LEI
-http://188.240.220.132/hls2/jnuqjgonlu2qedz7nidbrebrbr5snmpitcspucsonigta7ablerjkkrcpm5a/index-v1-a1.m3u8
-
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/121856_pt.jpg" group-title="FILMES",ASSASSIN'S CREED [2017] (Leg)[COLOR blue]•[/COLOR]Assassin's Creed
 https://cld.pt/dl/download/3dac3213-7425-4521-a2dc-9d95fcaf6dca/Assassins%20Creed.mkv
 
