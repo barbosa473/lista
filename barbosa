@@ -1510,6 +1510,48 @@ http://85.138.201.130:9981/stream/channelid/1155281510?ticket=F633F483F38457852D
  
  
  
+ 
+ 
+#EXTINF:0 tvg-ID="" tvg-name="SportTV 1 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 1 SD LOW
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+#EXTINF:0 tvg-ID="" tvg-name="SportTV 3 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 3 SD LOW
+rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
+
+
+#EXTINF:0,VH1 Classic
+http://msk4.peers.tv/streaming/vh1/16/tvrec/playlist.m3u8?token=4b9204c996d278661c9e5d15a6355247
+#EXTINF:0, MUSIC TV ISTOGU
+http://4.31.30.145:9022
+#EXTINF:0,Afro music
+http://4.31.30.145:9034
+#EXTINF:0,RTP1
+http://4.31.30.145:9198
+#EXTINF:0,tvi ficçao
+http://4.31.30.145:9004
+
+#EXTINF:0,tvi reality
+http://4.31.30.145:9040
+
+#EXTINF:0,tlc
+http://4.31.30.145:9043
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
 #EXTINF:-1,FONTE (PT)
 http://79.172.241.74:8081/hls/itv34.m3u8
  
