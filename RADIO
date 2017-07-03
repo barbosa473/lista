@@ -113,5 +113,7 @@ http://los.cdnstream.com/1116_128
 http://hi5.streamingsoundtracks.com/;?cb=270318.mp3/;408351175488106stream.nsv
 #EXTINF:0,SUPER FM - SUPER FM - 104.8 FM
 http://94.23.76.235:9956/;
+#EXTINF:0,CORE RADIO!
+http://194.58.97.117:8000/coreradio
 #EXTINF:0,TSF Online
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
