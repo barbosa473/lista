@@ -8,284 +8,211 @@ rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
 #EXTINF:0,------ Portugal --------
 http://163.172.6.8:8000/live/alan/alan/937.ts
 
-#EXTINF:0,SPORT TV +
-http://94.63.107.131:8030/play/a00y
 
-#EXTINF:0,PT: Spor tv 1
-http://163.172.6.8:8000/live/alan/alan/880.ts
-#EXTINF:0,PT: SporTV 2
-http://163.172.6.8:8000/live/alan/alan/881.ts
-#EXTINF:0,PT: SporTV 3
-http://163.172.6.8:8000/live/alan/alan/882.ts
-#EXTINF:0,PT: SporTV 4
-http://163.172.6.8:8000/live/alan/alan/883.ts
-#EXTINF:0,PT: SporTV 5
-http://163.172.6.8:8000/live/alan/alan/884.ts
-#EXTINF:0,PT: Sporting TV HD
-http://163.172.6.8:8000/live/alan/alan/885.ts
-#EXTINF:0,PT: Sport TV
-http://163.172.6.8:8000/live/alan/alan/899.ts
-#EXTINF:0,PT: Benfica TV 1
-http://163.172.6.8:8000/live/alan/alan/900.ts
-#EXTINF:0,PT: TVCine 1
-http://163.172.6.8:8000/live/alan/alan/936.ts
-#EXTINF:0,PT: TVCine 2
-http://163.172.6.8:8000/live/alan/alan/935.ts
-#EXTINF:0,PT: TVCine 3
-http://163.172.6.8:8000/live/alan/alan/934.ts
-#EXTINF:0,PT: TVCine 4
-http://163.172.6.8:8000/live/alan/alan/933.ts
-#EXTINF:0,PT: TVCseries
-http://163.172.6.8:8000/live/alan/alan/930.ts
-#EXTINF:0,PT: VeVo 1 HD
-http://163.172.6.8:8000/live/alan/alan/898.ts
-#EXTINF:0,PT: VeVo 2 HD
-http://163.172.6.8:8000/live/alan/alan/897.ts
-#EXTINF:0,PT: VeVo 3 HD
-http://163.172.6.8:8000/live/alan/alan/896.ts
-#EXTINF:0,PT: AXN HD
-http://163.172.6.8:8000/live/alan/alan/915.ts
-#EXTINF:0,PT: Axn White HD
-http://163.172.6.8:8000/live/alan/alan/916.ts
-#EXTINF:0,PT: Axn Black HD
-http://163.172.6.8:8000/live/alan/alan/932.ts
-#EXTINF:0,PT: Fox HD
-http://163.172.6.8:8000/live/alan/alan/926.ts
-#EXTINF:0,PT: Fox Crime
-http://163.172.6.8:8000/live/alan/alan/901.ts
-#EXTINF:0,PT: Fox Life HD
-http://163.172.6.8:8000/live/alan/alan/925.ts
-#EXTINF:0,PT: Fox Comedy
-http://163.172.6.8:8000/live/alan/alan/923.ts
-#EXTINF:0,PT: Fox Movies HD
-http://163.172.6.8:8000/live/alan/alan/929.ts
-#EXTINF:0,PT: Toros tv
-http://163.172.6.8:8000/live/alan/alan/909.ts
-#EXTINF:0,PT: TVI Ficcao
-http://163.172.6.8:8000/live/alan/alan/886.ts
-#EXTINF:0,PT: TVI
-http://163.172.6.8:8000/live/alan/alan/889.ts
-#EXTINF:0,PT: TVI 24
-http://163.172.6.8:8000/live/alan/alan/887.ts
-#EXTINF:0,PT: TV Globo
-http://163.172.6.8:8000/live/alan/alan/888.ts
-#EXTINF:0,PT: SIC
-http://163.172.6.8:8000/live/alan/alan/924.ts
-#EXTINF:0,PT: SIC K
-http://163.172.6.8:8000/live/alan/alan/919.ts
-#EXTINF:0,PT: SIC Noticias
-http://163.172.6.8:8000/live/alan/alan/903.ts
-#EXTINF:0,PT: Sic Radical
-http://163.172.6.8:8000/live/alan/alan/914.ts
-#EXTINF:0,PT: SIC Caras
-http://163.172.6.8:8000/live/alan/alan/912.ts
-#EXTINF:0,PT: Sic Mulher
-http://163.172.6.8:8000/live/alan/alan/913.ts
-#EXTINF:0,PT: RTP 1
-http://163.172.6.8:8000/live/alan/alan/895.ts
-#EXTINF:0,PT: RTP 2
-http://163.172.6.8:8000/live/alan/alan/894.ts
-#EXTINF:0,PT: RTP Memoria
-http://163.172.6.8:8000/live/alan/alan/890.ts
-#EXTINF:0,PT: RTP Madeira
-http://163.172.6.8:8000/live/alan/alan/891.ts
-#EXTINF:0,PT: RTP Acores
-http://163.172.6.8:8000/live/alan/alan/893.ts
-#EXTINF:0,PT: TLC
-http://163.172.6.8:8000/live/alan/alan/878.ts
-#EXTINF:0,PT: Travel Channel
-http://163.172.6.8:8000/live/alan/alan/877.ts
-#EXTINF:0,PT: CM TV
-http://163.172.6.8:8000/live/alan/alan/908.ts
-#EXTINF:0,PT: TV Globo Premium
-http://163.172.6.8:8000/live/alan/alan/931.ts
-#EXTINF:0,PT: Record
-http://163.172.6.8:8000/live/alan/alan/917.ts
-#EXTINF:0,PT: PFC
-http://163.172.6.8:8000/live/alan/alan/911.ts
-#EXTINF:0,PT: Jim Jim
-http://163.172.6.8:8000/live/alan/alan/918.ts
-#EXTINF:0,PT: SyFy
-http://163.172.6.8:8000/live/alan/alan/902.ts
-#EXTINF:0,PT: CartoonNet Work
-http://163.172.6.8:8000/live/alan/alan/920.ts
-#EXTINF:0,PT: Motors TV
-http://163.172.6.8:8000/live/alan/alan/921.ts
-#EXTINF:0,PT: Cine Mundo
-http://163.172.6.8:8000/live/alan/alan/892.ts
-#EXTINF:0,PT: EuroSpor News
-http://163.172.6.8:8000/live/alan/alan/922.ts
-#EXTINF:0,PT: Hollywood
-http://163.172.6.8:8000/live/alan/alan/907.ts
-#EXTINF:0,PT: EuroSport 2
-http://163.172.6.8:8000/live/alan/alan/927.ts
-#EXTINF:0,PT: EuroSport
-http://163.172.6.8:8000/live/alan/alan/928.ts
-#EXTINF:0,PT: Disney Junior
-http://163.172.6.8:8000/live/alan/alan/905.ts
-#EXTINF:0,PT: Disney Channel
-http://163.172.6.8:8000/live/alan/alan/904.ts
-#EXTINF:0,PT: Discovery HD
-http://163.172.6.8:8000/live/alan/alan/906.ts
-#EXTINF:0,PT: Abola tv
-http://163.172.6.8:8000/live/alan/alan/910.ts
-#EXTINF:0,------- Spanish ---------
-http://163.172.6.8:8000/live/alan/alan/1072.ts
-#EXTINF:0,ES: Taquilla 1
-http://163.172.6.8:8000/live/alan/alan/1071.ts
-#EXTINF:0,ES: Taquilla 2
-http://163.172.6.8:8000/live/alan/alan/1070.ts
-#EXTINF:0,ES: Taquilla 3
-http://163.172.6.8:8000/live/alan/alan/1069.ts
-#EXTINF:0,ES: Taquilla 4
-http://163.172.6.8:8000/live/alan/alan/1068.ts
-#EXTINF:0,ES: Taquilla 5
-http://163.172.6.8:8000/live/alan/alan/1067.ts
-#EXTINF:0,ES: Taquilla 6
-http://163.172.6.8:8000/live/alan/alan/1066.ts
-#EXTINF:0,ES: Taquilla 7
-http://163.172.6.8:8000/live/alan/alan/1065.ts
-#EXTINF:0,ES: Taquilla 8
-http://163.172.6.8:8000/live/alan/alan/1064.ts
-#EXTINF:0,ES: Taquilla 9
-http://163.172.6.8:8000/live/alan/alan/1063.ts
-#EXTINF:0,ES: Taquilla 10
-http://163.172.6.8:8000/live/alan/alan/1062.ts
-#EXTINF:0,ES: Canal+ Liga
-http://163.172.6.8:8000/live/alan/alan/1022.ts
-#EXTINF:0,ES: Canal+ Deportes HD
-http://163.172.6.8:8000/live/alan/alan/1012.ts
-#EXTINF:0,ES: Canal+ Deportes 2 HD
-http://163.172.6.8:8000/live/alan/alan/2590.ts
-#EXTINF:0,ES: Canal+ Futpol
-http://163.172.6.8:8000/live/alan/alan/1020.ts
-#EXTINF:0,ES: Canal+ Golf
-http://163.172.6.8:8000/live/alan/alan/1019.ts
-#EXTINF:0,ES: Canal+ HD
-http://163.172.6.8:8000/live/alan/alan/1016.ts
-#EXTINF:0,ES: Canal+ Accion
-http://163.172.6.8:8000/live/alan/alan/1030.ts
-#EXTINF:0,ES: Canal+ Dcine
-http://163.172.6.8:8000/live/alan/alan/1028.ts
-#EXTINF:0,ES: Canal+ Comedia
-http://163.172.6.8:8000/live/alan/alan/1031.ts
-#EXTINF:0,ES: Canal+ Estrenos HD
-http://163.172.6.8:8000/live/alan/alan/1059.ts
-#EXTINF:0,ES: Canal+ de las Estrellas
-http://163.172.6.8:8000/live/alan/alan/1048.ts
-#EXTINF:0,ES: Canal+ Series
-http://163.172.6.8:8000/live/alan/alan/1058.ts
-#EXTINF:0,ES: Canal+ Serie Xtra
-http://163.172.6.8:8000/live/alan/alan/1004.ts
-#EXTINF:0,ES: Canal+ Cuatro
-http://163.172.6.8:8000/live/alan/alan/1026.ts
-#EXTINF:0,ES: Canal+ Cine
-http://163.172.6.8:8000/live/alan/alan/1033.ts
-#EXTINF:0,ES: Canal+ Cocina
-http://163.172.6.8:8000/live/alan/alan/1024.ts
-#EXTINF:0,ES: Canal+ AXN HD
-http://163.172.6.8:8000/live/alan/alan/1054.ts
-#EXTINF:0,ES: Canal+ Toros
-http://163.172.6.8:8000/live/alan/alan/1049.ts
-#EXTINF:0,ES: Canal Los40
-http://163.172.6.8:8000/live/alan/alan/1002.ts
-#EXTINF:0,ES: Canal+ Nova
-http://163.172.6.8:8000/live/alan/alan/1034.ts
-#EXTINF:0,ES: Canal+ Fox HD
-http://163.172.6.8:8000/live/alan/alan/1029.ts
-#EXTINF:0,ES: Canal T HD
-http://163.172.6.8:8000/live/alan/alan/1047.ts
-#EXTINF:0,ES: Alfa TV
-http://163.172.6.8:8000/live/alan/alan/1041.ts
-#EXTINF:0,ES: Canal+ Divinity
-http://163.172.6.8:8000/live/alan/alan/1039.ts
-#EXTINF:0,ES: 24 Horas
-http://163.172.6.8:8000/live/alan/alan/1046.ts
-#EXTINF:0,ES: Bein Sport ES HD
-http://163.172.6.8:8000/live/alan/alan/1003.ts
-#EXTINF:0,ES: Real Madrid
-http://163.172.6.8:8000/live/alan/alan/1037.ts
-#EXTINF:0,ES: Barca TV
-http://163.172.6.8:8000/live/alan/alan/1021.ts
-#EXTINF:0,ES: Movis Star Moto Gp
-http://163.172.6.8:8000/live/alan/alan/1011.ts
-#EXTINF:0,ES: Movi Star F1
-http://163.172.6.8:8000/live/alan/alan/1010.ts
-#EXTINF:0,ES: Comedy Central
-http://163.172.6.8:8000/live/alan/alan/1042.ts
-#EXTINF:0,ES: Teledeportes
-http://163.172.6.8:8000/live/alan/alan/1050.ts
-#EXTINF:0,ES: Clan TVE
-http://163.172.6.8:8000/live/alan/alan/1045.ts
-#EXTINF:0,ES: La 1
-http://163.172.6.8:8000/live/alan/alan/1014.ts
-#EXTINF:0,ES: La 2
-http://163.172.6.8:8000/live/alan/alan/1013.ts
-#EXTINF:0,ES: La  Sexta HD
-http://163.172.6.8:8000/live/alan/alan/1017.ts
-#EXTINF:0,ES: TV Galicia
-http://163.172.6.8:8000/live/alan/alan/1015.ts
-#EXTINF:0,ES: SYFY HD
-http://163.172.6.8:8000/live/alan/alan/1025.ts
-#EXTINF:0,ES: TV3
-http://163.172.6.8:8000/live/alan/alan/2591.ts
-#EXTINF:0,ES: Rtvcscolombia
-http://163.172.6.8:8000/live/alan/alan/2584.ts
-#EXTINF:0,ES: AMC HD
-http://163.172.6.8:8000/live/alan/alan/2589.ts
-#EXTINF:0,ES: LTC
-http://163.172.6.8:8000/live/alan/alan/2588.ts
-#EXTINF:0,ES: GOL Tv
-http://163.172.6.8:8000/live/alan/alan/2585.ts
-#EXTINF:0,ES: Boing
-http://163.172.6.8:8000/live/alan/alan/2586.ts
-#EXTINF:0,ES: Cosmo HD
-http://163.172.6.8:8000/live/alan/alan/2587.ts
-#EXTINF:0,ES: News DW
-http://163.172.6.8:8000/live/alan/alan/1053.ts
-#EXTINF:0,ES: TCM HD
-http://163.172.6.8:8000/live/alan/alan/1056.ts
-#EXTINF:0,ES: 324 Entertainment
-http://163.172.6.8:8000/live/alan/alan/1005.ts
-#EXTINF:0,ES: Fox Life
-http://163.172.6.8:8000/live/alan/alan/1060.ts
-#EXTINF:0,ES: Hollywood
-http://163.172.6.8:8000/live/alan/alan/1036.ts
-#EXTINF:0,ES: Axn White HD
-http://163.172.6.8:8000/live/alan/alan/1023.ts
-#EXTINF:0,ES: History
-http://163.172.6.8:8000/live/alan/alan/1051.ts
-#EXTINF:0,ES: Calle 13 Spain
-http://163.172.6.8:8000/live/alan/alan/1009.ts
-#EXTINF:0,ES: Anime
-http://163.172.6.8:8000/live/alan/alan/999.ts
-#EXTINF:0,ES: A&E
-http://163.172.6.8:8000/live/alan/alan/1001.ts
-#EXTINF:0,ES: FDF
-http://163.172.6.8:8000/live/alan/alan/1007.ts
-#EXTINF:0,ES: Caza Y Pesca
-http://163.172.6.8:8000/live/alan/alan/1027.ts
-#EXTINF:0,ES: Viajar
-http://163.172.6.8:8000/live/alan/alan/1043.ts
-#EXTINF:0,ES: Teleticino
-http://163.172.6.8:8000/live/alan/alan/1008.ts
-#EXTINF:0,ES: National Geographic
-http://163.172.6.8:8000/live/alan/alan/1057.ts
-#EXTINF:0,ES: National Geographic Wild
-http://163.172.6.8:8000/live/alan/alan/1055.ts
-#EXTINF:0,ES: Disney Chaneel
-http://163.172.6.8:8000/live/alan/alan/1040.ts
-#EXTINF:0,ES: Disney XD
-http://163.172.6.8:8000/live/alan/alan/1038.ts
-#EXTINF:0,ES: TNT
-http://163.172.6.8:8000/live/alan/alan/1032.ts
-#EXTINF:0,ES: TVN Chile HD
-http://163.172.6.8:8000/live/alan/alan/1006.ts
-#EXTINF:0,ES: CHILE VTV
-http://163.172.6.8:8000/live/alan/alan/1052.ts
-#EXTINF:0,ES: Chile 18 Carnaval
-http://163.172.6.8:8000/live/alan/alan/1044.ts
-
+#EXTINF:0,RTP 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3208.ts
+#EXTINF:0,RTP 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3209.ts
+#EXTINF:0,SIC PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3227.ts
+#EXTINF:0,TVI PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3214.ts
+#EXTINF:0,SIC Mulher PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9467.ts
+#EXTINF:0,SIC Caras PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9466.ts
+#EXTINF:0,SIC Radical PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9468.ts
+#EXTINF:0,Canal Q PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9465.ts
+#EXTINF:0,AMC HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9487.ts
+#EXTINF:0,Sporting TV HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3246.ts
+#EXTINF:0,AXN HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3255.ts
+#EXTINF:0,AXN Black HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5551.ts
+#EXTINF:0,AXN White HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3242.ts
+#EXTINF:0,FOX HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3232.ts
+#EXTINF:0,FOX Crime HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5549.ts
+#EXTINF:0,FOX Life HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3233.ts
+#EXTINF:0,Syfy PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3226.ts
+#EXTINF:0,FOX Comedy PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9489.ts
+#EXTINF:0,TVCine 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15796.ts
+#EXTINF:0,TV Cine 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5545.ts
+#EXTINF:0,TV Cine 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15797.ts
+#EXTINF:0,TV Cine 2 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5546.ts
+#EXTINF:0,TV Cine 3 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15798.ts
+#EXTINF:0,TV Cine 3 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5547.ts
+#EXTINF:0,TV Cine 4 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15799.ts
+#EXTINF:0,TV Cine 4 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5548.ts
+#EXTINF:0,Canal Hollywood HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3307.ts
+#EXTINF:0,FOX Movies PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5550.ts
+#EXTINF:0,Cine Mundo PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5544.ts
+#EXTINF:0,E! PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3257.ts
+#EXTINF:0,BBC Entertainment PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9488.ts
+#EXTINF:0,CBS Reality PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3215.ts
+#EXTINF:0,TV Séries HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3304.ts
+#EXTINF:0,TVI Ficção PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5542.ts
+#EXTINF:0,TVI Reality PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9464.ts
+#EXTINF:0,Caça e Pesca PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5543.ts
+#EXTINF:0,National Geographic HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3306.ts
+#EXTINF:0,National Geographic Wild PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5556.ts
+#EXTINF:0,Discovery Channel PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3247.ts
+#EXTINF:0,Discovery Showcase HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3253.ts
+#EXTINF:0,TLC PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9496.ts
+#EXTINF:0,Odisseia PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3230.ts
+#EXTINF:0,MTV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9478.ts
+#EXTINF:0,Travel Channel HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9497.ts
+#EXTINF:0,Nickelodeon PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3240.ts
+#EXTINF:0,História HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3238.ts
+#EXTINF:0,24 Kitchen HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3243.ts
+#EXTINF:0,Fashion TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9495.ts
+#EXTINF:0,MCS LifeStyle PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3220.ts
+#EXTINF:0,Trace Urban PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3219.ts
+#EXTINF:0,BabyFirst TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7855.ts
+#EXTINF:0,Baby TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9490.ts
+#EXTINF:0,SIC K PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3228.ts
+#EXTINF:0,Disney Channel PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3310.ts
+#EXTINF:0,Disney Junior PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3258.ts
+#EXTINF:0,JimJam PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9491.ts
+#EXTINF:0,Cartoon Network PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5554.ts
+#EXTINF:0,Panda Biggs PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5553.ts
+#EXTINF:0,Canal Panda  PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3239.ts
+#EXTINF:0,RTP Memória PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3212.ts
+#EXTINF:0,RTP África PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5539.ts
+#EXTINF:0,RTP Madeira PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3211.ts
+#EXTINF:0,RTP Açores PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3210.ts
+#EXTINF:0,Porto Canal PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5538.ts
+#EXTINF:0,TV Globo PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9471.ts
+#EXTINF:0,TV Globo Premium PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3217.ts
+#EXTINF:0,Record Europa PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3249.ts
+#EXTINF:0,Afro Music Channel PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3250.ts
+#EXTINF:0,C Music TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3259.ts
+#EXTINF:0,VH1 Classic PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9475.ts
+#EXTINF:0,TV Canção Nova PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3237.ts
+#EXTINF:0,RTP 3 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3213.ts
+#EXTINF:0,CM TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3236.ts
+#EXTINF:0,SIC Notícias PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3229.ts
+#EXTINF:0,TVI 24 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5536.ts
+#EXTINF:0,FOX News PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9476.ts
+#EXTINF:0,Eurosport News PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9483.ts
+#EXTINF:0,TVI HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5537.ts
+#EXTINF:0,Toros TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5555.ts
+#EXTINF:0,Sport TV + PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9499.ts
+#EXTINF:0,Sport TV 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7846.ts
+#EXTINF:0,Sport TV 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3221.ts
+#EXTINF:0,Sport TV 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7845.ts
+#EXTINF:0,Sport TV 2 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3222.ts
+#EXTINF:0,Sport TV 3 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7844.ts
+#EXTINF:0,Sport TV 3 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3223.ts
+#EXTINF:0,Sport TV 4 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7843.ts
+#EXTINF:0,Sport TV 4 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3224.ts
+#EXTINF:0,Sport TV 5 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7842.ts
+#EXTINF:0,Sport TV 5 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16297.ts
+#EXTINF:0,Benfica TV 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3308.ts
+#EXTINF:0,Benfica TV 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5541.ts
+#EXTINF:0,Benfica TV 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3309.ts
+#EXTINF:0,Sporting TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3305.ts
+#EXTINF:0,A Bola TV PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5540.ts
+#EXTINF:0,Eurosport 1 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7851.ts
+#EXTINF:0,Eurosport 1 HD PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3234.ts
+#EXTINF:0,Eurosport 2 PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9482.ts
+#EXTINF:0,Motorvision PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9485.ts
+#EXTINF:0,PFC PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3248.ts
+#EXTINF:0,Canal NOS PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9470.ts
+#EXTINF:0,MCS Extrême PT
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3231.ts
 
 
 
