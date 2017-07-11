@@ -8,213 +8,212 @@ rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
 #EXTINF:0,------ Portugal --------
 http://163.172.6.8:8000/live/alan/alan/937.ts
 
-
+#EXTM3U
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/16519.ts
 #EXTINF:0,RTP 1 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3208.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3208.ts
 #EXTINF:0,RTP 2 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3209.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3209.ts
 #EXTINF:0,SIC PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3227.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3227.ts
 #EXTINF:0,TVI PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3214.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3214.ts
 #EXTINF:0,SIC Mulher PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9467.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9467.ts
 #EXTINF:0,SIC Caras PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9466.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9466.ts
 #EXTINF:0,SIC Radical PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9468.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9468.ts
 #EXTINF:0,Canal Q PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9465.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9465.ts
 #EXTINF:0,AMC HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9487.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9487.ts
 #EXTINF:0,Sporting TV HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3246.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3246.ts
 #EXTINF:0,AXN HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3255.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3255.ts
 #EXTINF:0,AXN Black HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5551.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5551.ts
 #EXTINF:0,AXN White HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3242.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3242.ts
 #EXTINF:0,FOX HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3232.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3232.ts
 #EXTINF:0,FOX Crime HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5549.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5549.ts
 #EXTINF:0,FOX Life HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3233.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3233.ts
 #EXTINF:0,Syfy PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3226.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3226.ts
 #EXTINF:0,FOX Comedy PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9489.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9489.ts
 #EXTINF:0,TVCine 1 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15796.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/15796.ts
 #EXTINF:0,TV Cine 1 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5545.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5545.ts
 #EXTINF:0,TV Cine 2 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15797.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/15797.ts
 #EXTINF:0,TV Cine 2 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5546.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5546.ts
 #EXTINF:0,TV Cine 3 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15798.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/15798.ts
 #EXTINF:0,TV Cine 3 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5547.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5547.ts
 #EXTINF:0,TV Cine 4 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15799.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/15799.ts
 #EXTINF:0,TV Cine 4 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5548.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5548.ts
 #EXTINF:0,Canal Hollywood HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3307.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3307.ts
 #EXTINF:0,FOX Movies PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5550.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5550.ts
 #EXTINF:0,Cine Mundo PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5544.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5544.ts
 #EXTINF:0,E! PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3257.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3257.ts
 #EXTINF:0,BBC Entertainment PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9488.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9488.ts
 #EXTINF:0,CBS Reality PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3215.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3215.ts
 #EXTINF:0,TV Séries HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3304.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3304.ts
 #EXTINF:0,TVI Ficção PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5542.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5542.ts
 #EXTINF:0,TVI Reality PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9464.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9464.ts
 #EXTINF:0,Caça e Pesca PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5543.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5543.ts
 #EXTINF:0,National Geographic HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3306.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3306.ts
 #EXTINF:0,National Geographic Wild PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5556.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5556.ts
 #EXTINF:0,Discovery Channel PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3247.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3247.ts
 #EXTINF:0,Discovery Showcase HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3253.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3253.ts
 #EXTINF:0,TLC PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9496.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9496.ts
 #EXTINF:0,Odisseia PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3230.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3230.ts
 #EXTINF:0,MTV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9478.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9478.ts
 #EXTINF:0,Travel Channel HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9497.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9497.ts
 #EXTINF:0,Nickelodeon PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3240.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3240.ts
 #EXTINF:0,História HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3238.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3238.ts
 #EXTINF:0,24 Kitchen HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3243.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3243.ts
 #EXTINF:0,Fashion TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9495.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9495.ts
 #EXTINF:0,MCS LifeStyle PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3220.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3220.ts
 #EXTINF:0,Trace Urban PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3219.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3219.ts
 #EXTINF:0,BabyFirst TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7855.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/7855.ts
 #EXTINF:0,Baby TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9490.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9490.ts
 #EXTINF:0,SIC K PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3228.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3228.ts
 #EXTINF:0,Disney Channel PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3310.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3310.ts
 #EXTINF:0,Disney Junior PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3258.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3258.ts
 #EXTINF:0,JimJam PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9491.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9491.ts
 #EXTINF:0,Cartoon Network PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5554.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5554.ts
 #EXTINF:0,Panda Biggs PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5553.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5553.ts
 #EXTINF:0,Canal Panda  PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3239.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3239.ts
 #EXTINF:0,RTP Memória PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3212.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3212.ts
 #EXTINF:0,RTP África PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5539.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5539.ts
 #EXTINF:0,RTP Madeira PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3211.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3211.ts
 #EXTINF:0,RTP Açores PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3210.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3210.ts
 #EXTINF:0,Porto Canal PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5538.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5538.ts
 #EXTINF:0,TV Globo PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9471.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9471.ts
 #EXTINF:0,TV Globo Premium PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3217.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3217.ts
 #EXTINF:0,Record Europa PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3249.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3249.ts
 #EXTINF:0,Afro Music Channel PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3250.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3250.ts
 #EXTINF:0,C Music TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3259.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3259.ts
 #EXTINF:0,VH1 Classic PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9475.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9475.ts
 #EXTINF:0,TV Canção Nova PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3237.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3237.ts
 #EXTINF:0,RTP 3 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3213.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3213.ts
 #EXTINF:0,CM TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3236.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3236.ts
 #EXTINF:0,SIC Notícias PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3229.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3229.ts
 #EXTINF:0,TVI 24 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5536.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5536.ts
 #EXTINF:0,FOX News PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9476.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9476.ts
 #EXTINF:0,Eurosport News PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9483.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9483.ts
 #EXTINF:0,TVI HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5537.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5537.ts
 #EXTINF:0,Toros TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5555.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5555.ts
 #EXTINF:0,Sport TV + PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9499.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9499.ts
 #EXTINF:0,Sport TV 1 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7846.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/7846.ts
 #EXTINF:0,Sport TV 1 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3221.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3221.ts
 #EXTINF:0,Sport TV 2 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7845.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/7845.ts
 #EXTINF:0,Sport TV 2 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3222.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3222.ts
 #EXTINF:0,Sport TV 3 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7844.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/7844.ts
 #EXTINF:0,Sport TV 3 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3223.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3223.ts
 #EXTINF:0,Sport TV 4 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7843.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/7843.ts
 #EXTINF:0,Sport TV 4 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3224.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3224.ts
 #EXTINF:0,Sport TV 5 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7842.ts
-#EXTINF:0,Sport TV 5 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16297.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/7842.ts
 #EXTINF:0,Benfica TV 1 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3308.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3308.ts
 #EXTINF:0,Benfica TV 1 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5541.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5541.ts
 #EXTINF:0,Benfica TV 2 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3309.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3309.ts
 #EXTINF:0,Sporting TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3305.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3305.ts
 #EXTINF:0,A Bola TV PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5540.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/5540.ts
 #EXTINF:0,Eurosport 1 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7851.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/7851.ts
 #EXTINF:0,Eurosport 1 HD PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3234.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3234.ts
 #EXTINF:0,Eurosport 2 PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9482.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9482.ts
 #EXTINF:0,Motorvision PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9485.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9485.ts
 #EXTINF:0,PFC PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3248.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3248.ts
 #EXTINF:0,Canal NOS PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9470.ts
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/9470.ts
+#EXTINF:0,Sport TV 5 HD PT
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/16297.ts
 #EXTINF:0,MCS Extrême PT
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3231.ts
-
-
+http://clientportal.link:8080/live/libsseteletube1/5Skj8N6JaF/3231.ts
 
 
 
