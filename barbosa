@@ -8,8 +8,7 @@ rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
 #EXTINF:0,------ Portugal --------
 http://163.172.6.8:8000/live/alan/alan/937.ts
 
-
-
+#EXTM3U
 #EXTINF:0,RTP 1
 http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/118.ts
 #EXTINF:0,RTP 2
@@ -1076,12 +1075,6 @@ http://revendedor.amxiptv.club:8000/movie/antonioSATe2/diasSATe2/1189.mp4
 http://revendedor.amxiptv.club:8000/movie/antonioSATe2/diasSATe2/1190.mp4
 #EXTINF:0,Underworld 4 (Doblado BR)
 http://revendedor.amxiptv.club:8000/movie/antonioSATe2/diasSATe2/1191.mp4
-
-
-
-
-
-
 
 
 #EXTINF:0, MUSIC TV ISTOGU
