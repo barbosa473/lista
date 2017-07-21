@@ -6,59 +6,124 @@ rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
 
 
 
-#EXTM3U
-#EXTINF:0,PT-RTP_1
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2173.ts
-#EXTINF:0,PT-RTP_2
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2172.ts
-#EXTINF:0,PT-TV_Globo
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2169.ts
-#EXTINF:0,PT-TVCine1
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2168.ts
-#EXTINF:0,PT-TVCine2
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2167.ts
-#EXTINF:0,PT-TVCine3
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2166.ts
-#EXTINF:0,PT-Fox_Movies
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2170.ts
-#EXTINF:0,PT-SIC_Caras
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2171.ts
-#EXTINF:0,PT-Fox_HD
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2175.ts
-#EXTINF:0,PT-Fox_Crime
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2176.ts
-#EXTINF:0,PT-Fox_Comedy
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2177.ts
-#EXTINF:0,PT-Disney_Junior
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2178.ts
-#EXTINF:0,PT-Disney_Channel
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/2179.ts
-#EXTINF:0,PT-TVI_Ficcao
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3402.ts
-#EXTINF:0,PT-TV_Cseries
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3403.ts
-#EXTINF:0,PT-Toros_tv
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3404.ts
-#EXTINF:0,PT-Sic_Radical
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3405.ts
-#EXTINF:0,PT-Sic_Mulher
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3406.ts
-#EXTINF:0,PT-RTP_Memoria
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3407.ts
-#EXTINF:0,PT-Record
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3408.ts
-#EXTINF:0,PT-Motors_TV
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3409.ts
-#EXTINF:0,PT-Jim_Jim
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3410.ts
-#EXTINF:0,PT-Discovery_HD
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3411.ts
-#EXTINF:0,PT-Canal_Porto
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3412.ts
-#EXTINF:0,PT-AXN_HD
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3413.ts
-#EXTINF:0,PT-Abola_tv
-http://best4u.tn:8000/live/DOCTOR/DOCTOR/3414.ts
+#EXTINF:0,PT: Spor tv 1
+http://ipsatpro.com:8000/live/omars/omars/880.ts
+#EXTINF:0,PT: SporTV 2
+http://ipsatpro.com:8000/live/omars/omars/881.ts
+#EXTINF:0,PT: SporTV 3
+http://ipsatpro.com:8000/live/omars/omars/882.ts
+#EXTINF:0,PT: SporTV 4
+http://ipsatpro.com:8000/live/omars/omars/883.ts
+#EXTINF:0,PT: SporTV 5
+http://ipsatpro.com:8000/live/omars/omars/884.ts
+#EXTINF:0,PT: Sporting TV HD
+http://ipsatpro.com:8000/live/omars/omars/885.ts
+#EXTINF:0,PT: Sport TV
+http://ipsatpro.com:8000/live/omars/omars/899.ts
+#EXTINF:0,PT: Benfica TV 1
+http://ipsatpro.com:8000/live/omars/omars/900.ts
+#EXTINF:0,PT: TVCine 1
+http://ipsatpro.com:8000/live/omars/omars/936.ts
+#EXTINF:0,PT: TVCine 2
+http://ipsatpro.com:8000/live/omars/omars/935.ts
+#EXTINF:0,PT: TVCine 3
+http://ipsatpro.com:8000/live/omars/omars/934.ts
+#EXTINF:0,PT: TVCine 4
+http://ipsatpro.com:8000/live/omars/omars/933.ts
+#EXTINF:0,PT: TVCseries
+http://ipsatpro.com:8000/live/omars/omars/930.ts
+#EXTINF:0,PT: VeVo 1 HD
+http://ipsatpro.com:8000/live/omars/omars/898.ts
+#EXTINF:0,PT: VeVo 2 HD
+http://ipsatpro.com:8000/live/omars/omars/897.ts
+#EXTINF:0,PT: VeVo 3 HD
+http://ipsatpro.com:8000/live/omars/omars/896.ts
+#EXTINF:0,PT: AXN HD
+http://ipsatpro.com:8000/live/omars/omars/915.ts
+#EXTINF:0,PT: Axn White HD
+http://ipsatpro.com:8000/live/omars/omars/916.ts
+#EXTINF:0,PT: Axn Black HD
+http://ipsatpro.com:8000/live/omars/omars/932.ts
+#EXTINF:0,PT: Fox HD
+http://ipsatpro.com:8000/live/omars/omars/926.ts
+#EXTINF:0,PT: Fox Crime
+http://ipsatpro.com:8000/live/omars/omars/901.ts
+#EXTINF:0,PT: Fox Life HD
+http://ipsatpro.com:8000/live/omars/omars/925.ts
+#EXTINF:0,PT: Fox Comedy
+http://ipsatpro.com:8000/live/omars/omars/923.ts
+#EXTINF:0,PT: Fox Movies HD
+http://ipsatpro.com:8000/live/omars/omars/929.ts
+#EXTINF:0,PT: Toros tv
+http://ipsatpro.com:8000/live/omars/omars/909.ts
+#EXTINF:0,PT: TVI Ficcao
+http://ipsatpro.com:8000/live/omars/omars/886.ts
+#EXTINF:0,PT: TVI
+http://ipsatpro.com:8000/live/omars/omars/889.ts
+#EXTINF:0,PT: TVI 24
+http://ipsatpro.com:8000/live/omars/omars/887.ts
+#EXTINF:0,PT: TV Globo
+http://ipsatpro.com:8000/live/omars/omars/888.ts
+#EXTINF:0,PT: SIC
+http://ipsatpro.com:8000/live/omars/omars/924.ts
+#EXTINF:0,PT: SIC K
+http://ipsatpro.com:8000/live/omars/omars/919.ts
+#EXTINF:0,PT: SIC Noticias
+http://ipsatpro.com:8000/live/omars/omars/903.ts
+#EXTINF:0,PT: Sic Radical
+http://ipsatpro.com:8000/live/omars/omars/914.ts
+#EXTINF:0,PT: SIC Caras
+http://ipsatpro.com:8000/live/omars/omars/912.ts
+#EXTINF:0,PT: Sic Mulher
+http://ipsatpro.com:8000/live/omars/omars/913.ts
+#EXTINF:0,PT: RTP 1
+http://ipsatpro.com:8000/live/omars/omars/895.ts
+#EXTINF:0,PT: RTP 2
+http://ipsatpro.com:8000/live/omars/omars/894.ts
+#EXTINF:0,PT: RTP Memoria
+http://ipsatpro.com:8000/live/omars/omars/890.ts
+#EXTINF:0,PT: RTP Madeira
+http://ipsatpro.com:8000/live/omars/omars/891.ts
+#EXTINF:0,PT: RTP Acores
+http://ipsatpro.com:8000/live/omars/omars/893.ts
+#EXTINF:0,PT: TLC
+http://ipsatpro.com:8000/live/omars/omars/878.ts
+#EXTINF:0,PT: Travel Channel
+http://ipsatpro.com:8000/live/omars/omars/877.ts
+#EXTINF:0,PT: CM TV
+http://ipsatpro.com:8000/live/omars/omars/908.ts
+#EXTINF:0,PT: TV Globo Premium
+http://ipsatpro.com:8000/live/omars/omars/931.ts
+#EXTINF:0,PT: Record
+http://ipsatpro.com:8000/live/omars/omars/917.ts
+#EXTINF:0,PT: PFC
+http://ipsatpro.com:8000/live/omars/omars/911.ts
+#EXTINF:0,PT: Jim Jim
+http://ipsatpro.com:8000/live/omars/omars/918.ts
+#EXTINF:0,PT: SyFy
+http://ipsatpro.com:8000/live/omars/omars/902.ts
+#EXTINF:0,PT: CartoonNet Work
+http://ipsatpro.com:8000/live/omars/omars/920.ts
+#EXTINF:0,PT: Motors TV
+http://ipsatpro.com:8000/live/omars/omars/921.ts
+#EXTINF:0,PT: Cine Mundo
+http://ipsatpro.com:8000/live/omars/omars/892.ts
+#EXTINF:0,PT: EuroSpor News
+http://ipsatpro.com:8000/live/omars/omars/922.ts
+#EXTINF:0,PT: Hollywood
+http://ipsatpro.com:8000/live/omars/omars/907.ts
+#EXTINF:0,PT: EuroSport 2
+http://ipsatpro.com:8000/live/omars/omars/927.ts
+#EXTINF:0,PT: EuroSport
+http://ipsatpro.com:8000/live/omars/omars/928.ts
+#EXTINF:0,PT: Disney Junior
+http://ipsatpro.com:8000/live/omars/omars/905.ts
+#EXTINF:0,PT: Disney Channel
+http://ipsatpro.com:8000/live/omars/omars/904.ts
+#EXTINF:0,PT: Discovery HD
+http://ipsatpro.com:8000/live/omars/omars/906.ts
+#EXTINF:0,PT: Abola tv
+http://ipsatpro.com:8000/live/omars/omars/910.ts
 
 
 
