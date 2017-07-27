@@ -4,22 +4,181 @@ rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 #EXTINF:0 tvg-ID="" tvg-name="SportTV 3 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 3 SD LOW
 rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
 
-#EXTINF:0,PT :SPORT TV1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/196.ts
-#EXTINF:0,PT :SPORT TV2 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/197.ts
-#EXTINF:0,PT :SPORT TV3 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/198.ts
-#EXTINF:0,PT:SPORT  TV4 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/199.ts
-#EXTINF:0,PT:SPORT  TV5 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/200.ts
-#EXTINF:0,PT:RTP 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/664.ts
-#EXTINF:0,PT:RTP 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/665.ts
-#EXTINF:0,PT:RTP 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/666.ts
+
+
+#EXTINF:0,PT: A&E
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4829.ts
+#EXTINF:0,PT: AFRO MUSIC
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4836.ts
+#EXTINF:0,PT: AMC
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2881.ts
+#EXTINF:0,PT: AXN Black HD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4809.ts
+#EXTINF:0,PT: BABY TV
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2884.ts
+#EXTINF:0,PT: BENFICA TV 1
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2868.ts
+#EXTINF:0,PT: BIGGS
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2885.ts
+#EXTINF:0,PT: BTV 1 HD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2670.ts
+#EXTINF:0,PT: Canal Panda
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2888.ts
+#EXTINF:0,PT: CANÇÃO NOVA
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4774.ts
+#EXTINF:0,PT: CARTOON NETWORK
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4800.ts
+#EXTINF:0,PT: CAÇAVISION
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4821.ts
+#EXTINF:0,PT: CBS REALITY
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4828.ts
+#EXTINF:0,PT: CMTV
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2862.ts
+#EXTINF:0,PT: DISCOVERY
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4834.ts
+#EXTINF:0,PT: DISNEY CHANNEL
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4798.ts
+#EXTINF:0,PT: Disney Junior
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2883.ts
+#EXTINF:0,PT: E! ENTERTAINMENT
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4820.ts
+#EXTINF:0,PT: EUROSPORT 1
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4791.ts
+#EXTINF:0,PT: EUROSPORT 2
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4792.ts
+#EXTINF:0,PT: FOX COMEDY
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4810.ts
+#EXTINF:0,PT: FUEL TV
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4827.ts
+#EXTINF:0,PT: HOLLYWOOD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4806.ts
+#EXTINF:0,PT: JIMJAM
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4802.ts
+#EXTINF:0,PT: MCM POP
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4837.ts
+#EXTINF:0,PT: Motorsport.Tv
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2875.ts
+#EXTINF:0,PT: MOTORVISION
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4795.ts
+#EXTINF:0,PT: NAT GEO WILD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4831.ts
+#EXTINF:0,PT: Nickelodeon
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2886.ts
+#EXTINF:0,PT: Odisseia
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2892.ts
+#EXTINF:0,PT: Porto Canal
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2871.ts
+#EXTINF:0,PT: REAL MADRID TV HD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2870.ts
+#EXTINF:0,PT: RTP 1
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2674.ts
+#EXTINF:0,PT: RTP 2
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2854.ts
+#EXTINF:0,PT: RTP 3
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2675.ts
+#EXTINF:0,PT: RTP AÇORES
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4770.ts
+#EXTINF:0,PT: RTP INTERNACIONAL
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4765.ts
+#EXTINF:0,PT: RTP MADEIRA
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2856.ts
+#EXTINF:0,PT: RTP MEMORIA
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2855.ts
+#EXTINF:0,PT: RTP ÁFRICA
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4769.ts
+#EXTINF:0,PT: SIC
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2677.ts
+#EXTINF:0,PT: SIC CARAS
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4771.ts
+#EXTINF:0,PT: SIC MULHER
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2861.ts
+#EXTINF:0,PT: SIC NOTICIAS
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2860.ts
+#EXTINF:0,PT: Sic Radical
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2678.ts
+#EXTINF:0,PT: SPORT.TV 1
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/211.ts
+#EXTINF:0,PT: SPORT.TV 1 HD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2863.ts
+#EXTINF:0,PT: SPORT.TV 2
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/212.ts
+#EXTINF:0,PT: SPORT.TV 3
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2864.ts
+#EXTINF:0,PT: SPORT.TV 4
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2866.ts
+#EXTINF:0,PT: SPORT.TV 4 HD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2865.ts
+#EXTINF:0,PT: SPORT.TV 5
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/214.ts
+#EXTINF:0,PT: Sport TV 5 HD
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2867.ts
+#EXTINF:0,PT: Sporting TV
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2672.ts
+#EXTINF:0,PT: TLC
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4826.ts
+#EXTINF:0,PT: Tv Record
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2891.ts
+#EXTINF:0,PT: TVC2
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/9478.ts
+#EXTINF:0,PT: TVCINE 1
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2876.ts
+#EXTINF:0,PT: TVCINE 2
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2877.ts
+#EXTINF:0,PT: TVCINE 3
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2878.ts
+#EXTINF:0,PT: TVCINE 4
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2879.ts
+#EXTINF:0,PT: TVI
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2676.ts
+#EXTINF:0,PT: Tvi 24
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2859.ts
+#EXTINF:0,PT: TVI FICCAO
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2858.ts
+#EXTINF:0,PT: TVI REALITY
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2857.ts
+#EXTINF:0,PT: VH1
+http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4838.ts
+
+
+
+#EXTINF:0,AXN
+http://185.26.174.67:44444/play/a00x
+#EXTINF:0,AXN WHITE
+http://185.26.174.67:44444/play/a00w
+#EXTINF:0,BTV 1
+http://185.26.174.67:44444/play/a002
+#EXTINF:0,C+ XTRA
+http://185.26.174.67:44444/play/a01o
+#EXTINF:0,CANAL HISTORIA
+http://185.26.174.67:44444/play/a01g
+#EXTINF:0,Discovery Channel
+http://185.26.174.67:44444/play/a01h
+#EXTINF:0,DISNEY JR
+http://185.26.174.67:44444/play/a00q
+#EXTINF:0,Eurosport
+http://185.26.174.67:44444/play/a01d
+#EXTINF:0,EUROSPORT 1
+http://185.26.174.67:44444/play/a01d
+#EXTINF:0,Globo
+http://185.26.174.67:44444/play/a018
+#EXTINF:0,Hollywood
+http://185.26.174.67:44444/play/a01e
+#EXTINF:0,MTV Portugal
+http://185.26.174.67:44444/play/a01f
+#EXTINF:0,Odisseia
+http://185.26.174.67:44444/play/a01i
+#EXTINF:0,Sport TV 1
+http://185.26.174.67:44444/play/a01j
+#EXTINF:0,Sport TV 2
+http://185.26.174.67:44444/play/a016
+#EXTINF:0,Sport TV 3
+http://185.26.174.67:44444/play/a01a
+#EXTINF:0,Sport TV 4
+http://185.26.174.67:44444/play/a01c
+#EXTINF:0,TVI 24
+http://185.26.174.67:44444/play/a019
+
+
 
 
 
