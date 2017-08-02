@@ -1,7 +1,10 @@
+#EXTM3U
+
+
 #EXTINF:0,*****LISTA FIXA
 http://www.google.pt
- 
- 
+
+
 #EXTINF:0, MUSIC TV ISTOGU
 http://4.31.30.145:9022
 #EXTINF:0,Afro music
@@ -40,54 +43,17 @@ http://94.63.107.131:8030/play/a00o
 http://94.63.107.131:8030/play/a00p
 #EXTINF:0,TV GLOBO PORTUGAL
 http://94.63.107.131:8030/play/a00x
- 
+
 #EXTINF:0 tvg-ID="" tvg-name="SportTV 1 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 1 SD LOW telemovel
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 #EXTINF:0 tvg-ID="" tvg-name="SportTV 3 kitboxtv" tvg-logo="" group-title="kitboxtv",SportTV 3 SD LOW telemovel
 rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream
- 
- 
+
+
+
 #EXTINF:0,*****LISTA 1
 http://www.google.pt
- 
-#EXTINF:0,BTV 1
-http://185.26.174.67:44444/play/a002
-#EXTINF:0,C+ XTRA
-http://185.26.174.67:44444/play/a01o
-#EXTINF:0,CANAL HISTORIA
-http://185.26.174.67:44444/play/a01g
-#EXTINF:0,Discovery Channel
-http://185.26.174.67:44444/play/a01h
-#EXTINF:0,DISNEY JR
-http://185.26.174.67:44444/play/a00q
-#EXTINF:0,Eurosport
-http://185.26.174.67:44444/play/a01d
-#EXTINF:0,EUROSPORT 1
-http://185.26.174.67:44444/play/a01d
-#EXTINF:0,Globo
-http://185.26.174.67:44444/play/a018
-#EXTINF:0,Hollywood
-http://185.26.174.67:44444/play/a01e
-#EXTINF:0,MTV Portugal
-http://185.26.174.67:44444/play/a01f
-#EXTINF:0,Odisseia
-http://185.26.174.67:44444/play/a01i
-#EXTINF:0,Sport TV 1
-http://185.26.174.67:44444/play/a01j
-#EXTINF:0,Sport TV 2
-http://185.26.174.67:44444/play/a016
-#EXTINF:0,Sport TV 3
-http://185.26.174.67:44444/play/a01a
-#EXTINF:0,Sport TV 4
-http://185.26.174.67:44444/play/a01c
-#EXTINF:0,TVI 24
-http://185.26.174.67:44444/play/a019
- 
- 
- 
-#EXTINF:0,*****LISTA 2
-http://www.google.pt
- 
+
 #EXTINF:0,|PT| Abola TV
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1107.ts
 #EXTINF:0,|PT| AMC
@@ -168,15 +134,13 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1098.ts
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1100.ts
 #EXTINF:0,|PT| TVI Ficcao
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1099.ts
- 
- 
- 
- 
- 
-#EXTINF:0,*****LISTA 3
+
+
+
+#EXTINF:0,*****LISTA 2
 http://www.google.pt
- 
- 
+
+
 #EXTM3U
 #EXTINF:0,PT: A&E
 http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4829.ts
@@ -310,9 +274,9 @@ http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2858.ts
 http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2857.ts
 #EXTINF:0,PT: VH1
 http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4838.ts
- 
- 
-#EXTINF:0,*****LISTA 4
+
+
+#EXTINF:0,*****LISTA 3
 http://www.google.pt
  
  
@@ -448,5 +412,11 @@ http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2858.ts
 http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/2857.ts
 #EXTINF:0,PT: VH1
 http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/4838.ts
+ 
+ 
+ 
+
+#EXTINF:0,BARBOSA© 2017 All rights reserved
+http://www.google.pt
 
 
