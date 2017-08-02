@@ -209,11 +209,11 @@ http://0.0.0.1234
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRXDBLRLEG.mp4
 
 
-#EXTINF:-1 type="video" tvg-logo="" group-title="FILMES",DOUTOR ESTRANHO
+#EXTINF:-1,DOUTOR ESTRANHO
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
 
-#EXTINF:-1 type="video" tvg-logo="" group-title="FILMES",ESQUADRÃO DE ELITE
+#EXTINF:-1,ESQUADRÃO DE ELITE
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDRDELT.mp4
 
-#EXTINF:-1 type="video" tvg-logo="" group-title="FILMES",ASSASSIN'S CREED
+#EXTINF:-1,ASSASSIN'S CREED
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
